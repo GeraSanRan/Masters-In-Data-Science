@@ -1,6 +1,5 @@
-# Masters-In-Data-Science
-The following information showcases work during my masters program as well as personal projects. 
 # Masters in Data Science Portfolio
+The following information showcases work during my masters program as well as personal projects.
 
 Welcome to my Data Science Portfolio. This repository organizes the work completed throughout my master’s program, including homework assignments, milestone projects, and capstone components. The goal is to present a clear, professional collection of projects that demonstrate skills in analytics, machine learning, visualization, and data engineering.
 
