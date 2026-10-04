@@ -63,6 +63,6 @@ Next steps include uploading notebooks, adding datasets, and writing individual 
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you’d like to learn more about this portfolio or the projects within it, feel free to explore the folders or reach out.
