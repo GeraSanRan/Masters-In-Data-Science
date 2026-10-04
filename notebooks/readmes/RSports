@@ -1,0 +1,25 @@
+# Pickleball & Tennis Membership Data Cleaning Project
+
+## Overview
+This project involved cleaning and organizing membership data for pickleball and tennis programs. The dataset included member names, contact information, membership types, and participation records. Work was completed using both Python and R.
+
+## Objectives
+- Standardize inconsistent formatting across multiple data sources
+- Correct misspellings and incomplete entries
+- Remove duplicates and merge overlapping records
+- Prepare clean datasets for reporting and analysis
+
+## Methods Used
+- Python: Pandas for cleaning, merging, and formatting
+- R: dplyr and tidyr for transformation and validation
+- String manipulation for correcting names and membership labels
+
+## Skills Demonstrated
+- Real-world data cleaning
+- Multi-language workflow (Python + R)
+- Preparing data for operational use
+
+## Files
+- notebooks/pickleball_tennis_cleaning.ipynb
+- data/membership_raw.csv
+- data/membership_clean.csv
