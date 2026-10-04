@@ -22,3 +22,27 @@ src/visualization.py — charts
 main.py — pipeline runner
 
 notebooks/final_project.ipynb — full notebook version
+How to Run
+Code
+python main.py
+Outputs
+Retention rate by membership type
+
+Logistic regression performance
+
+Decision tree performance
+
+Membership clustering
+
+Visualizations saved in outputs/
+
+Dependencies
+Python 3.10+
+
+pandas
+
+scikit‑learn
+
+seaborn
+
+matplotlib
