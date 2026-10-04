@@ -1,0 +1,17 @@
+# Clustering & Segmentation Homework
+
+## Overview
+This project applied clustering techniques to segment data into meaningful groups. Work was completed in Python and R.
+
+## Methods Used
+- K-Means clustering
+- DBSCAN
+- Elbow method and silhouette scoring
+
+## Skills Demonstrated
+- Unsupervised learning
+- Cluster evaluation
+- Data visualization
+
+## Files
+- notebooks/clustering_homework.ipynb
