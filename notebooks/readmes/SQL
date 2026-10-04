@@ -1,0 +1,12 @@
+# SQL & Data Pipeline Homework
+
+## Overview
+This project included SQL queries, joins, filtering, and basic ETL steps. Work was completed using R Studio and Python.
+
+## Skills Demonstrated
+- SQL querying
+- Data extraction and transformation
+- Database interaction
+
+## Files
+- notebooks/sql_homework.ipynb
