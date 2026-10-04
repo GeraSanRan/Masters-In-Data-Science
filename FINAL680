@@ -1,1 +1,24 @@
+Predicting Member Retention in Recreational Sports Programs
+Author: Gerardo
+Course: Graduate Data Science Final Project
+Date: October 2026
 
+Overview
+This project builds a predictive framework for member retention using data from a recreational sports club. The dataset includes ~5000 members with demographic and membership‑status information. The goal is to identify retention patterns and build prototype models that classify retention risk.
+
+Files Included
+data/members_all.csv — full dataset
+
+data/cleaned_memberships/*.csv — separated membership files
+
+src/load_data.py — data loading
+
+src/feature_engineering.py — feature creation
+
+src/modeling.py — logistic regression, decision tree, clustering
+
+src/visualization.py — charts
+
+main.py — pipeline runner
+
+notebooks/final_project.ipynb — full notebook version
