@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gerardo | Data Science Portfolio</title>
+<meta name="description" content="Data science portfolio: membership retention, data cleaning, classification, clustering, time series, SQL, dashboards, and deep learning.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F2F5F6; --ink:#12263A; --muted:#4F6272; --court:#2B6E8F; --ball:#E3E86A; --ball-ink:#12263A;
+  --rule:rgba(18,38,58,.28);
+  --display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#0F1B26; --ink:#E8EEF2; --muted:#9FB1BF; --court:#7FC4E0; --ball:#D6DC4F; --ball-ink:#0F1B26; --rule:rgba(232,238,242,.3)}
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:1.125rem;line-height:1.65}
+a{color:var(--court);text-underline-offset:.2em}
+a:focus-visible{outline:3px solid var(--court);outline-offset:3px;border-radius:2px}
+.skip{position:absolute;left:-999px;top:0;background:var(--ink);color:var(--bg);padding:.6rem 1rem;z-index:10}
+.skip:focus{left:1rem;top:1rem}
+.wrap{max-width:68rem;margin:0 auto;padding:0 1.5rem}
+
+/* top bar */
+.bar{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;padding:1.25rem 0;border-bottom:2px solid var(--rule)}
+.bar .name{font-family:var(--display);font-weight:700;font-size:1.15rem;letter-spacing:-.01em}
+.bar nav{display:flex;gap:1.5rem;font-family:var(--display);font-weight:500;font-size:1rem}
+.bar nav a{color:var(--ink);text-decoration:none;padding:.25rem 0;border-bottom:2px solid transparent}
+.bar nav a:hover{border-bottom-color:var(--ball)}
+
+/* hero */
+.hero{display:grid;grid-template-columns:1.15fr 1fr;gap:2.5rem;align-items:center;padding:4.5rem 0 4rem}
+.hero h1{font-family:var(--display);font-weight:700;font-size:clamp(2.4rem,5.4vw,4.2rem);line-height:1.04;letter-spacing:-.03em;margin:0 0 1.5rem;max-width:14ch}
+.hero p{margin:0 0 2rem;max-width:34rem;font-size:1.2rem}
+.actions{display:flex;flex-wrap:wrap;gap:.75rem}
+.btn{display:inline-block;font-family:var(--display);font-weight:700;font-size:1rem;text-decoration:none;padding:.7rem 1.2rem;border:2px solid var(--ink);color:var(--ink);border-radius:3px}
+.btn.primary{background:var(--ink);color:var(--bg)}
+.btn:hover{background:var(--ball);color:var(--ball-ink);border-color:var(--ball)}
+.btn:focus-visible{outline:3px solid var(--court);outline-offset:3px}
+.court{width:100%;height:auto;color:var(--ink)}
+.court line,.court rect{fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:square}
+.court .ball{fill:var(--ball);stroke:none}
+@media (prefers-reduced-motion:no-preference){
+  .court [pathLength]{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.6s ease-out forwards}
+  .court .l2{animation-delay:.5s}.court .l3{animation-delay:.9s}
+  .court .ball{opacity:0;animation:pop .3s 1.9s ease-out forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @keyframes pop{to{opacity:1}}
+}
+
+/* sections */
+section{padding:3.5rem 0;border-top:2px solid var(--rule)}
+h2{font-family:var(--display);font-weight:700;font-size:clamp(1.7rem,3vw,2.3rem);letter-spacing:-.02em;line-height:1.15;margin:0 0 1.25rem}
+h3{font-family:var(--display);font-weight:700;font-size:1.3rem;letter-spacing:-.01em;line-height:1.25;margin:0}
+.lede{max-width:40rem;margin:0 0 2.5rem}
+.about{display:grid;grid-template-columns:1fr 1fr;gap:3rem}
+.about p{margin:0 0 1rem;max-width:34rem}
+.facts{margin:0;padding:0;list-style:none;font-size:1.05rem}
+.facts li{padding:.75rem 0;border-bottom:1px solid var(--rule)}
+.facts li:first-child{border-top:1px solid var(--rule)}
+.facts b{font-family:var(--display);font-weight:700;display:block}
+
+/* projects */
+.projects{list-style:none;margin:0;padding:0}
+.project{display:grid;grid-template-columns:minmax(12rem,1fr) 2fr;gap:.5rem 2.5rem;padding:1.6rem 0;border-top:1px solid var(--rule)}
+.project:last-child{border-bottom:1px solid var(--rule)}
+.project p{margin:0 0 .6rem;max-width:36rem}
+.meta{font-size:.98rem;color:var(--muted)}
+.chip{display:inline-block;font-family:var(--display);font-weight:500;font-size:.85rem;padding:.1rem .55rem;border-radius:2px;margin-top:.5rem;border:1px solid var(--rule);color:var(--muted)}
+.chip.active{background:var(--ball);color:var(--ball-ink);border-color:var(--ball)}
+.project.featured{border-top:2px solid var(--ink);padding:2rem 0}
+.project.featured h3{font-size:1.6rem}
+
+/* contact */
+.contact dl{margin:0;display:grid;grid-template-columns:8rem 1fr;gap:.6rem 1.5rem;max-width:36rem}
+.contact dt{font-family:var(--display);font-weight:700}
+.contact dd{margin:0;overflow-wrap:anywhere}
+footer{border-top:2px solid var(--rule);padding:1.5rem 0 3rem;color:var(--muted);font-size:.95rem}
+
+@media (max-width:52rem){
+  .hero{grid-template-columns:1fr;padding:2.5rem 0}
+  .court{max-width:28rem}
+  .about{grid-template-columns:1fr;gap:1.5rem}
+  .project{grid-template-columns:1fr}
+  .bar nav{gap:1rem}
+  .contact dl{grid-template-columns:1fr;gap:.1rem}
+  .contact dd{margin-bottom:.9rem}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#projects">Skip to projects</a>
+
+<div class="wrap">
+  <header class="bar">
+    <span class="name">Gerardo</span>
+    <nav aria-label="Main">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="hero">
+      <div>
+        <h1>I turn membership records into decisions about who stays.</h1>
+        <p>I'm a data science master's student who cleans, models, and explains operational data. My most recent work looks at member retention at a recreational sports club.</p>
+        <div class="actions">
+          <a class="btn primary" href="#projects">See my projects</a>
+          <a class="btn" href="https://github.com/GeraSanRan/Masters-In-Data-Science">View the code on GitHub</a>
+        </div>
+      </div>
+      <svg class="court" viewBox="0 0 460 220" role="img" aria-label="Top-down drawing of a pickleball court">
+        <rect pathLength="1" x="10" y="10" width="440" height="200"/>
+        <line pathLength="1" class="l2" x1="230" y1="4" x2="230" y2="216"/>
+        <line pathLength="1" class="l3" x1="160" y1="10" x2="160" y2="210"/>
+        <line pathLength="1" class="l3" x1="300" y1="10" x2="300" y2="210"/>
+        <line pathLength="1" class="l3" x1="10" y1="110" x2="160" y2="110"/>
+        <line pathLength="1" class="l3" x1="300" y1="110" x2="450" y2="110"/>
+        <circle class="ball" cx="368" cy="62" r="9"/>
+      </svg>
+    </div>
+
+    <section id="about" aria-labelledby="about-h">
+      <h2 id="about-h">About</h2>
+      <div class="about">
+        <div>
+          <p>I work with the kind of data organizations actually have: exports from management software, inconsistent labels, duplicate records, and missing fields. I like the work between the raw file and the answer, and I like explaining the result in plain language.</p>
+          <p>At a recreational sports club, I cleaned and standardized membership records and began analyzing why members renew, expire, or cancel. This portfolio collects that work along with projects from my master's program.</p>
+        </div>
+        <ul class="facts">
+          <li><b>Education</b>Master's degree in data science (in progress)</li>
+          <li><b>Tools</b>Python, R, SQL, Jupyter, Tableau or Power BI</li>
+          <li><b>Strengths</b>Data cleaning, classification, clustering, communicating results</li>
+          <li><b>Privacy</b>Personal details are removed or replaced with synthetic values before analysis</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="projects" aria-labelledby="projects-h">
+      <h2 id="projects-h">Projects</h2>
+      <p class="lede">Ten projects, grouped by method and subject. Each row shows the problem, the tools, and where the work stands. Notebooks are being added to the <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/notebooks">notebooks folder</a> of the repository.</p>
+
+      <ul class="projects">
+        <li class="project featured">
+          <h3>Member retention prediction</h3>
+          <div>
+            <p>Which members are likely to renew, and which membership types are at risk? Built from about 7,200 membership records from a recreational sports club. Contact details are replaced with synthetic values; only age, status, and membership type are analyzed.</p>
+            <div class="meta">Python, pandas, scikit-learn. Logistic regression, decision tree, random forest.</div>
+            <span class="chip active">In progress: results will be added when the notebook is finished</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Membership data cleaning</h3>
+          <div>
+            <p>Cleaning member lists for a pickleball and tennis club: correcting formats, standardizing membership names, and preparing the data for analysis.</p>
+            <div class="meta">Python, R</div>
+            <span class="chip">Notebook being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Name matching and record linkage</h3>
+          <div>
+            <p>Matching about 5,000 names using only the first three letters of each, and separating people by membership category.</p>
+            <div class="meta">Python</div>
+            <span class="chip">Notebook being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Classification models</h3>
+          <div>
+            <p>Predicting a yes-or-no outcome from labeled data, and comparing how well different models perform.</p>
+            <div class="meta">Python, Jupyter</div>
+            <span class="chip">Notebook being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Clustering and segmentation</h3>
+          <div>
+            <p>Grouping similar records together without labels, to find natural segments in the data.</p>
+            <div class="meta">Python, Jupyter</div>
+            <span class="chip">Notebook being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Time series analysis</h3>
+          <div>
+            <p>Analyzing data that changes over time to find trends and patterns.</p>
+            <div class="meta">Python, Jupyter</div>
+            <span class="chip">Notebook being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Exploratory data analysis</h3>
+          <div>
+            <p>Exploring a dataset with summary statistics and charts before any modeling.</p>
+            <div class="meta">Python, Jupyter</div>
+            <span class="chip">Notebook being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Interactive dashboard</h3>
+          <div>
+            <p>A dashboard that lets a non-technical audience explore the data on their own.</p>
+            <div class="meta">Tableau or Power BI</div>
+            <span class="chip">Being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>SQL and data pipelines</h3>
+          <div>
+            <p>Querying a database and moving data through extract, transform, and load steps.</p>
+            <div class="meta">SQL</div>
+            <span class="chip">Scripts being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Deep learning</h3>
+          <div>
+            <p>Training a neural network on a modeling problem.</p>
+            <div class="meta">Python, Jupyter</div>
+            <span class="chip">Notebook being added</span>
+          </div>
+        </li>
+
+        <li class="project">
+          <h3>Data manipulation and coding exercises</h3>
+          <div>
+            <p>Coding challenges in data manipulation and problem solving.</p>
+            <div class="meta">Python</div>
+            <span class="chip">Being added</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact" class="contact" aria-labelledby="contact-h">
+      <h2 id="contact-h">Contact</h2>
+      <p class="lede">The fastest way to reach me is by email. The code for every project is on GitHub.</p>
+      <dl>
+        <dt>Email</dt>
+        <dd><a href="mailto:REPLACE_WITH_YOUR_EMAIL">REPLACE_WITH_YOUR_EMAIL</a></dd>
+        <dt>GitHub</dt>
+        <dd><a href="https://github.com/GeraSanRan">github.com/GeraSanRan</a></dd>
+        <!-- Add a LinkedIn row here:
+        <dt>LinkedIn</dt><dd><a href="https://www.linkedin.com/in/YOUR-PROFILE">linkedin.com/in/YOUR-PROFILE</a></dd> -->
+      </dl>
+    </section>
+  </main>
+
+  <footer>Last updated November 2026</footer>
+</div>
+</body>
+</html>
