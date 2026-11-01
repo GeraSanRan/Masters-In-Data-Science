@@ -94,10 +94,17 @@ def main():
     ap.add_argument("--salt", required=True, help="secret text; do not commit it")
     args = ap.parse_args()
 
+    # Club exports often put a report title (e.g. "Users_HC") above the real
+    # header row, so locate the header instead of assuming it is line 1.
     with open(args.raw_csv, newline="", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        rows = list(reader)
-        header = reader.fieldnames or []
+        all_rows = list(csv.reader(f))
+    start = next((i for i, r in enumerate(all_rows)
+                  if COLS["first"] in [c.strip() for c in r]), None)
+    if start is None:
+        sys.exit(f"Could not find a header row containing '{COLS['first']}'.")
+    header = [c.strip() for c in all_rows[start]]
+    rows = [dict(zip(header, r)) for r in all_rows[start + 1:]
+            if any(c.strip() for c in r)]  # skip blank rows
 
     missing = [c for c in list(COLS.values()) + KEEP_AS_IS if c not in header]
     if missing:
