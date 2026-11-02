@@ -1,0 +1,14 @@
+{
+  "rows_read": 7320,
+  "duplicates_dropped": 151,
+  "ages_set_to_missing": 31,
+  "unmapped_group_labels": {},
+  "rows_written": 7169,
+  "columns_dropped": [
+    "First name",
+    "Last name",
+    "Email",
+    "Phone (Cell)",
+    "Phone (Home)"
+  ]
+}

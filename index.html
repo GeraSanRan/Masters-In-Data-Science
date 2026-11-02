@@ -73,6 +73,7 @@ h3{font-family:var(--display);font-weight:700;font-size:1.3rem;letter-spacing:-.
 .project p{margin:0 0 .6rem;max-width:36rem}
 .meta{font-size:.98rem;color:var(--muted)}
 .chip{display:inline-block;font-family:var(--display);font-weight:500;font-size:.85rem;padding:.1rem .55rem;border-radius:2px;margin-top:.5rem;border:1px solid var(--rule);color:var(--muted)}
+.project a{margin-right:1rem;font-family:var(--display);font-weight:500;font-size:.95rem}
 .chip.active{background:var(--ball);color:var(--ball-ink);border-color:var(--ball)}
 .project.featured{border-top:2px solid var(--ink);padding:2rem 0}
 .project.featured h3{font-size:1.6rem}
@@ -152,18 +153,23 @@ footer{border-top:2px solid var(--rule);padding:1.5rem 0 3rem;color:var(--muted)
         <li class="project featured">
           <h3>Member retention prediction</h3>
           <div>
-            <p>Which members are likely to renew, and which membership types are at risk? Built from about 7,200 membership records from a recreational sports club. Contact details are replaced with synthetic values; only age, status, and membership type are analyzed.</p>
+            <p>Which members are likely to be retained, and which membership groups are at risk? The pipeline comes from a real club problem: messy member exports, inconsistent group codes, duplicates, and private contact details. It is published here on a fully synthetic dataset, so no real member appears.</p>
+            <p>The model beats the baseline only weakly, and a fairness check across age bands found large gaps. Both are reported openly in the notebook.</p>
             <div class="meta">Python, pandas, scikit-learn. Logistic regression, decision tree, random forest.</div>
-            <span class="chip active">In progress: results will be added when the notebook is finished</span>
+            <span class="chip active">Notebook available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/notebooks/member_retention.ipynb">Open the notebook</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/notebooks/readmes/member_retention.md">Read the README</a>
           </div>
         </li>
 
         <li class="project">
           <h3>Membership data cleaning</h3>
           <div>
-            <p>Cleaning member lists for a pickleball and tennis club: correcting formats, standardizing membership names, and preparing the data for analysis.</p>
-            <div class="meta">Python, R</div>
-            <span class="chip">Notebook being added</span>
+            <p>Cleaning member lists for a pickleball and tennis club: splitting one messy export into one file per membership, then harmonizing group codes, removing duplicates, checking ages, and removing contact details.</p>
+            <div class="meta">Python</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/src/clean_memberships.py">Splitting script</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/src/clean_members.py">Cleaning script</a>
           </div>
         </li>
 
