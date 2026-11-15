@@ -63,6 +63,12 @@ Next steps include uploading notebooks, adding datasets, and writing individual 
 
 ---
 
+## Final Project 2: Member Retention Toolkit
+
+An open, reusable notebook for finding members at risk of not renewing, built on fully synthetic data so anyone can try it safely. See [`retention-toolkit-project2/`](retention-toolkit-project2/) for the notebook, the draft white paper, figures, and instructions for using it with your own data.
+
+---
+
 ## Contact
 
 If you’d like to learn more about this portfolio or the projects within it, feel free to explore the folders or reach out.

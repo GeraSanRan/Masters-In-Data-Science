@@ -1,0 +1,183 @@
+{
+  "cleaning_log": {
+    "members_raw_rows": 4120,
+    "visits_raw_rows": 339714,
+    "personal_data_columns_dropped": [
+      "email",
+      "phone"
+    ],
+    "duplicate_accounts_removed": 120,
+    "duplicate_visits_removed": 1690,
+    "missing_plan_filled_unknown": 49,
+    "unmatched_plan_set_other": 0,
+    "dropped_missing_dates": 34,
+    "set_aside_unclear_status": 46,
+    "visits_dropped_missing_date": 1682,
+    "visits_after_observation_excluded": 28625,
+    "members_clean_rows": 3920,
+    "churn_rate_clean": 0.2184
+  },
+  "readiness": [
+    "No warnings: data size and balance look workable."
+  ],
+  "n_members": 3920,
+  "churn_rate": 0.218,
+  "n_train": 3136,
+  "n_test": 784,
+  "test_churners": 171,
+  "chosen": "Logistic regression",
+  "results": {
+    "Majority baseline": {
+      "cv_pr_auc": 0.218,
+      "cv_pr_auc_sd": 0.0,
+      "threshold": 0.5,
+      "test_pr_auc": 0.218,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 0.782,
+      "tn": 613,
+      "fp": 0,
+      "fn": 171,
+      "tp": 0
+    },
+    "Logistic regression": {
+      "cv_pr_auc": 0.404,
+      "cv_pr_auc_sd": 0.016,
+      "threshold": 0.486,
+      "test_pr_auc": 0.329,
+      "precision": 0.305,
+      "recall": 0.696,
+      "f1": 0.424,
+      "accuracy": 0.588,
+      "tn": 342,
+      "fp": 271,
+      "fn": 52,
+      "tp": 119
+    },
+    "Random forest": {
+      "cv_pr_auc": 0.376,
+      "cv_pr_auc_sd": 0.033,
+      "threshold": 0.488,
+      "test_pr_auc": 0.296,
+      "precision": 0.294,
+      "recall": 0.526,
+      "f1": 0.377,
+      "accuracy": 0.621,
+      "tn": 397,
+      "fp": 216,
+      "fn": 81,
+      "tp": 90
+    },
+    "XGBoost": {
+      "cv_pr_auc": 0.376,
+      "cv_pr_auc_sd": 0.028,
+      "threshold": 0.451,
+      "test_pr_auc": 0.293,
+      "precision": 0.298,
+      "recall": 0.684,
+      "f1": 0.416,
+      "accuracy": 0.58,
+      "tn": 338,
+      "fp": 275,
+      "fn": 54,
+      "tp": 117
+    }
+  },
+  "n_scored": 46,
+  "n_scored_flagged": 20,
+  "by_type": [
+    {
+      "membership_type": "Annual",
+      "churn_rate": 0.152,
+      "members": 1154
+    },
+    {
+      "membership_type": "Family",
+      "churn_rate": 0.109,
+      "members": 795
+    },
+    {
+      "membership_type": "Monthly",
+      "churn_rate": 0.317,
+      "members": 1491
+    },
+    {
+      "membership_type": "Student/Senior",
+      "churn_rate": 0.258,
+      "members": 431
+    },
+    {
+      "membership_type": "Unknown",
+      "churn_rate": 0.204,
+      "members": 49
+    }
+  ],
+  "type_error": [
+    {
+      "membership_type": "Annual",
+      "test_members": 207.0,
+      "test_churners": 39.0,
+      "recall": 0.333,
+      "precision": 0.325
+    },
+    {
+      "membership_type": "Family",
+      "test_members": 171.0,
+      "test_churners": 19.0,
+      "recall": 0.316,
+      "precision": 0.316
+    },
+    {
+      "membership_type": "Monthly",
+      "test_members": 309.0,
+      "test_churners": 91.0,
+      "recall": 0.879,
+      "precision": 0.308
+    },
+    {
+      "membership_type": "Student/Senior",
+      "test_members": 86.0,
+      "test_churners": 20.0,
+      "recall": 0.9,
+      "precision": 0.286
+    },
+    {
+      "membership_type": "Unknown",
+      "test_members": 11.0,
+      "test_churners": 2.0,
+      "recall": 1.0,
+      "precision": 0.25
+    }
+  ],
+  "importance": {
+    "visits_per_month": 0.0377,
+    "plan": 0.0291,
+    "attendance_trend": 0.0185,
+    "guest_passes_used": 0.0096,
+    "days_since_last_visit": 0.0051,
+    "tenure_months": -0.0036
+  },
+  "recency_bands": {
+    "0-7": {
+      "churn_rate": 0.188,
+      "n": 3017
+    },
+    "8-14": {
+      "churn_rate": 0.277,
+      "n": 458
+    },
+    "15-30": {
+      "churn_rate": 0.355,
+      "n": 282
+    },
+    "31-60": {
+      "churn_rate": 0.377,
+      "n": 122
+    },
+    "61+": {
+      "churn_rate": 0.415,
+      "n": 41
+    }
+  }
+}

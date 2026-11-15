@@ -1,0 +1,47 @@
+member_id,plan,risk_score,flagged,top_reasons
+M102802,Monthly,0.82,True,Visit frequency (below typical); Plan: Monthly
+M100368,Monthly,0.8,True,Visit frequency (below typical); Plan: Monthly
+M100618,Monthly,0.78,True,Visit frequency (below typical); Plan: Monthly
+M100880,Monthly,0.73,True,Visit frequency (below typical); Plan: Monthly
+M103818,Monthly,0.73,True,Visit frequency (below typical); Plan: Monthly
+M101915,Monthly,0.67,True,Plan: Monthly; Visit frequency (below typical)
+M103241,Monthly,0.66,True,Visit frequency (below typical); Plan: Monthly
+M102635,Monthly,0.66,True,Visit frequency (below typical); Plan: Monthly
+M103395,Student/Senior,0.66,True,Visit frequency (below typical); Guest passes used (below typical)
+M101552,Monthly,0.65,True,Plan: Monthly; Visit frequency (below typical)
+M101148,Monthly,0.64,True,Plan: Monthly; Guest passes used (below typical)
+M102648,Monthly,0.64,True,Plan: Monthly; Recent attendance trend (below typical)
+M100398,Monthly,0.61,True,Plan: Monthly; Guest passes used (below typical)
+M103234,Monthly,0.55,True,Plan: Monthly; Plan: Annual
+M102242,Monthly,0.54,True,Plan: Monthly; Guest passes used (below typical)
+M101400,Monthly,0.54,True,Plan: Monthly; Guest passes used (below typical)
+M103433,Monthly,0.53,True,Plan: Monthly; Plan: Annual
+M101777,Student/Senior,0.53,True,Visit frequency (below typical); Plan: Student/Senior
+M102753,Monthly,0.5,True,Visit frequency (below typical); Plan: Monthly
+M101011,Monthly,0.49,True,Plan: Monthly; Guest passes used (below typical)
+M102472,Annual,0.46,False,Visit frequency (below typical); Guest passes used (below typical)
+M101997,Annual,0.45,False,Visit frequency (below typical); Plan: Family
+M102674,Annual,0.44,False,Guest passes used (below typical); Plan: Family
+M100069,Student/Senior,0.43,False,Guest passes used (below typical); Plan: Student/Senior
+M100448,Annual,0.41,False,Guest passes used (below typical); Plan: Family
+M100148,Monthly,0.41,False,Plan: Monthly; Plan: Annual
+M102075,Family,0.4,False,Visit frequency (below typical); Plan: Annual
+M100656,Student/Senior,0.37,False,Plan: Student/Senior; Plan: Annual
+M101288,Student/Senior,0.37,False,Plan: Student/Senior; Recent attendance trend (below typical)
+M102766,Annual,0.36,False,Visit frequency (below typical); Guest passes used (below typical)
+M102366,Family,0.36,False,Guest passes used (below typical); Plan: Annual
+M103812,Annual,0.33,False,Plan: Family; Time as a member (below typical)
+M102552,Annual,0.32,False,Guest passes used (below typical); Recent attendance trend (below typical)
+M101990,Family,0.32,False,Guest passes used (below typical); Plan: Annual
+M100171,Annual,0.31,False,Guest passes used (below typical); Plan: Family
+M103987,Family,0.31,False,Guest passes used (below typical); Recent attendance trend (below typical)
+M103485,Annual,0.29,False,Plan: Family; Recent attendance trend (below typical)
+M103308,Family,0.26,False,Guest passes used (below typical); Plan: Annual
+M101655,Annual,0.23,False,Plan: Family; Time as a member (below typical)
+M100867,Monthly,0.22,False,Plan: Monthly; Plan: Annual
+M100605,Monthly,0.2,False,Plan: Monthly; Guest passes used (below typical)
+M101129,Family,0.18,False,Plan: Annual
+M102503,Family,0.15,False,Recent attendance trend (below typical); Plan: Annual
+M101307,Annual,0.14,False,Plan: Family
+M100012,Family,0.13,False,Plan: Annual; Time as a member (below typical)
+M102917,Annual,0.1,False,Plan: Family; Time as a member (below typical)
