@@ -1,74 +1,35 @@
-# Masters in Data Science Portfolio
-The following information showcases work during my masters program as well as personal projects.
+# Gerardo | Data Science Portfolio
 
-Welcome to my Data Science Portfolio. This repository organizes the work completed throughout my master’s program, including homework assignments, milestone projects, and capstone components. The goal is to present a clear, professional collection of projects that demonstrate skills in analytics, machine learning, visualization, and data engineering.
+Projects from my master's program in data science and from applied work in sports and club analytics. The site is [`index.html`](index.html) (About, Projects, Contact). Every project below has its own folder with a README, code, and outputs.
 
-This repo is structured to support both code organization and future presentation through GitHub Pages.
+**Live site:** https://gerasanran.github.io/Masters-In-Data-Science/
 
----
+## Projects
 
-## Repository Structure
+| # | Project | Skills | Folder |
+|---|---|---|---|
+| 1 | Tennis Scout AI: fine-tuned language model and Streamlit app that writes scouting reports | NLP, fine-tuning, Streamlit | [`projects/tennis-scout-ai`](projects/tennis-scout-ai) |
+| 2 | Member Retention Toolkit: reusable notebook that finds members at risk of leaving | Classification, fairness checks, privacy | [`projects/member-retention-toolkit`](projects/member-retention-toolkit) |
+| 3 | Member Retention Prediction | Logistic regression, trees, random forest | [`projects/member-retention-prediction`](projects/member-retention-prediction) |
+| 4 | Membership Data Cleaning | Data cleaning, de-identification | [`projects/membership-data-cleaning`](projects/membership-data-cleaning) |
+| 5 | NBA Three-Point Revolution: before and after Stephen Curry | Statistics, time series | [`projects/nba-three-point-revolution`](projects/nba-three-point-revolution) |
+| 6 | Court Demand Forecasting | Forecasting | [`projects/court-demand-forecasting`](projects/court-demand-forecasting) |
+| 7 | Member Segmentation | Clustering | [`projects/member-segmentation`](projects/member-segmentation) |
+| 8 | Pickleball Ladder Ratings | Simulation, Elo ratings | [`projects/pickleball-ladder-ratings`](projects/pickleball-ladder-ratings) |
+| 9 | Club Analytics with SQL | SQL, SQLite | [`projects/club-sql-analytics`](projects/club-sql-analytics) |
+| 10 | Club Operations Dashboard | Dashboards, KPIs | [`projects/club-ops-dashboard`](projects/club-ops-dashboard) |
 
-This portfolio follows a clean, industry‑standard layout:
+## About the data
+Club-related projects use **synthetic data**, clearly labeled in each README, so no real member's information is published. Results on synthetic data show that a method works, not facts about a real club. The Tennis Scout AI project uses public tennis match charting data (see its README for licensing). The NBA project uses public season totals from Basketball-Reference.
 
-- notebooks/ — Jupyter notebooks for homework assignments, analyses, and project development  
-- data/ — Raw and processed datasets used across projects  
-- plots/ — Visualizations generated from notebooks  
-- readmes/ — Individual project summaries and documentation  
-- archive/ — Old versions, unused files, and experimental work  
-- project_list.md — Milestone 1 deliverable listing planned portfolio projects  
-
----
-
-## Purpose of This Portfolio
-
-This repository serves three main goals:
-
-1. Showcase completed coursework  
-2. Prepare for the final capstone portfolio  
-3. Demonstrate technical proficiency in version control, documentation, reproducibility, and project organization  
-
----
-
-## Featured Project Categories
-
-These categories represent the types of assignments included in the portfolio:
-
-- Time Series Analysis  
-- Machine Learning Classification  
-- Clustering & Segmentation  
-- Exploratory Data Analysis  
-- Dashboard Visualization  
-- SQL & Data Pipelines  
-- Deep Learning  
-- Capstone Project Placeholders  
-
-Each project will eventually include:
-- A notebook  
-- A dataset (if applicable)  
-- Visualizations  
-- A README summary  
-
----
-
-## Milestone 1 Status
-
-This repository currently includes:
-- A complete folder structure  
-- Placeholder files to maintain organization  
-- A draft project list  
-- Initial README documentation  
-
-Next steps include uploading notebooks, adding datasets, and writing individual project READMEs.
-
----
-
-## Final Project 2: Member Retention Toolkit
-
-An open, reusable notebook for finding members at risk of not renewing, built on fully synthetic data so anyone can try it safely. See [`retention-toolkit-project2/`](retention-toolkit-project2/) for the notebook, the draft white paper, figures, and instructions for using it with your own data.
-
----
+## Repository layout
+```
+index.html          the portfolio site (GitHub Pages)
+projects/
+  <project-name>/   README.md, notebook or code, data/, outputs/ or figures/, requirements.txt
+LICENSE
+```
+Each project can be run on its own: open its README and follow "Run it".
 
 ## Contact
-
-If you’d like to learn more about this portfolio or the projects within it, feel free to explore the folders or reach out.
+gsr303927@icloud.com | https://github.com/GeraSanRan
