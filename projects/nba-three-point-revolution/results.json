@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "before_mean_3P_pct": 0.3536,
+    "after_mean_3P_pct": 0.358,
+    "before_pooled_3P_pct": 0.3548,
+    "after_pooled_3P_pct": 0.3586,
+    "before_mean_3PA": 15.2,
+    "after_mean_3PA": 28.1,
+    "pct_diff_points": 0.44,
+    "pct_ttest_p": 0.093,
+    "3PA_ratio": 1.85,
+    "3PA_ttest_p": 1.27e-06,
+    "pct_diff_ci95_points": [
+      -0.02,
+      0.9
+    ],
+    "curry_career_3P_pct_seasons50plus_games": 0.424,
+    "curry_avg_gap_over_league_points": 6.7,
+    "curry_3PA_first_vs_peak": [
+      4.8,
+      12.7
+    ]
+  },
+  "segmented_regression": {
+    "3P_pct": {
+      "pre_slope_per_year": 0.0017,
+      "level_shift_at_2009": -0.0108,
+      "slope_change_after_2009": -0.0013,
+      "p_slope_change": 0.0068
+    },
+    "3PA": {
+      "pre_slope_per_year": 0.4927,
+      "level_shift_at_2009": -1.5694,
+      "slope_change_after_2009": 0.9191,
+      "p_slope_change": 0.0
+    }
+  }
+}
