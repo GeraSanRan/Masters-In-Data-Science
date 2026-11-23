@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Gerardo | Data Science Portfolio</title>
-<meta name="description" content="Data science portfolio: membership retention, data cleaning, classification, clustering, time series, SQL, dashboards, and deep learning.">
+<meta name="description" content="Data science portfolio: sports and club analytics, member retention, forecasting, clustering, SQL, dashboards, and a fine-tuned language model.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
@@ -112,7 +112,7 @@ footer{border-top:2px solid var(--rule);padding:1.5rem 0 3rem;color:var(--muted)
     <div class="hero">
       <div>
         <h1>I turn membership records into decisions about who stays.</h1>
-        <p>I'm a data science master's student who cleans, models, and explains operational data. My most recent work looks at member retention at a recreational sports club.</p>
+        <p>I'm a data science master's student who cleans, models, and explains operational data. My work focuses on sports and club analytics: member retention, demand forecasting, and player ratings.</p>
         <div class="actions">
           <a class="btn primary" href="#projects">See my projects</a>
           <a class="btn" href="https://github.com/GeraSanRan/Masters-In-Data-Science">View the code on GitHub</a>
@@ -138,8 +138,8 @@ footer{border-top:2px solid var(--rule);padding:1.5rem 0 3rem;color:var(--muted)
         </div>
         <ul class="facts">
           <li><b>Education</b>Master's degree in data science (in progress)</li>
-          <li><b>Tools</b>Python, R, SQL, Jupyter, Tableau or Power BI</li>
-          <li><b>Strengths</b>Data cleaning, classification, clustering, communicating results</li>
+          <li><b>Tools</b>Python, R, SQL, Jupyter, scikit-learn, Streamlit</li>
+          <li><b>Strengths</b>Data cleaning, classification, clustering, forecasting, communicating results</li>
           <li><b>Privacy</b>Personal details are removed or replaced with synthetic values before analysis</li>
         </ul>
       </div>
@@ -147,110 +147,119 @@ footer{border-top:2px solid var(--rule);padding:1.5rem 0 3rem;color:var(--muted)
 
     <section id="projects" aria-labelledby="projects-h">
       <h2 id="projects-h">Projects</h2>
-      <p class="lede">Eleven projects, grouped by method and subject. Each row shows the problem, the tools, and where the work stands. Notebooks are being added to the <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/notebooks">notebooks folder</a> of the repository.</p>
+      <p class="lede">Ten projects, each with a short summary and a link to its folder in the <a href="https://github.com/GeraSanRan/Masters-In-Data-Science">GitHub repository</a>. Club-related projects use synthetic data so no real member appears; each README says so.</p>
 
       <ul class="projects">
         <li class="project featured">
+          <h3>Tennis Scout AI</h3>
+          <div>
+            <p>A Streamlit app that turns a tennis player's statistics into a six-section scouting report, written by a small language model (Qwen2.5-0.5B) that I fine-tuned. Training data: 407 player-surface profiles built from the public Match Charting Project.</p>
+            <p>Fine-tuning taught the report format (format compliance rose from 9.5% to 100%) and the model never quoted a wrong number, but its archetype choices agree with my rule-based labels only 33% of the time. I report that openly.</p>
+            <div class="meta">Python, Hugging Face Transformers, Streamlit, Google Colab (DSC 670)</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/tennis-scout-ai">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/tennis-scout-ai/README.md">README</a>
+          </div>
+        </li>
+
+        <li class="project featured">
+          <h3>Member retention toolkit</h3>
+          <div>
+            <p>A reusable notebook that cleans member and check-in data, protects privacy, compares four models, and produces a ranked list of members drifting away, with plain-language reasons. Built on synthetic data so it can be shared safely.</p>
+            <p>The best model beats the baseline modestly (PR-AUC about 0.33 versus 0.22) and most flags are false alarms, so the write-up treats the list as a prompt for friendly outreach.</p>
+            <div class="meta">Python, scikit-learn, XGBoost (DSC 680)</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/member-retention-toolkit">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/member-retention-toolkit/retention_toolkit.ipynb">Notebook</a>
+          </div>
+        </li>
+
+        <li class="project">
           <h3>Member retention prediction</h3>
           <div>
-            <p>Which members are likely to be retained, and which membership groups are at risk? The pipeline comes from a real club problem: messy member exports, inconsistent group codes, duplicates, and private contact details. It is published here on a fully synthetic dataset, so no real member appears.</p>
-            <p>The model beats the baseline only weakly, and a fairness check across age bands found large gaps. Both are reported openly in the notebook.</p>
-            <div class="meta">Python, pandas, scikit-learn. Logistic regression, decision tree, random forest.</div>
-            <span class="chip active">Notebook available</span>
-            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/notebooks/member_retention.ipynb">Open the notebook</a>
-            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/notebooks/readmes/member_retention.md">Read the README</a>
+            <p>Which members are likely to be retained, and which membership groups are at risk? A pipeline from a real club problem, published on a fully synthetic dataset so no real member appears.</p>
+            <p>The model beats the baseline only weakly, and a fairness check across age bands found large gaps. Both are reported in the notebook.</p>
+            <div class="meta">Python, pandas, scikit-learn. Logistic regression, decision tree, random forest</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/member-retention-prediction">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/member-retention-prediction/member_retention.ipynb">Notebook</a>
           </div>
         </li>
 
         <li class="project">
           <h3>Membership data cleaning</h3>
           <div>
-            <p>Cleaning member lists for a pickleball and tennis club: splitting one messy export into one file per membership, then harmonizing group codes, removing duplicates, checking ages, and removing contact details.</p>
+            <p>Cleaning member exports for a pickleball and tennis club: splitting one messy file into one file per membership, harmonizing group codes, removing duplicates, checking ages, and removing contact details, with a change log.</p>
             <div class="meta">Python</div>
             <span class="chip active">Code available</span>
-            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/src/clean_memberships.py">Splitting script</a>
-            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/src/clean_members.py">Cleaning script</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/membership-data-cleaning">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/membership-data-cleaning/src/clean_members.py">Cleaning script</a>
           </div>
         </li>
 
         <li class="project">
-          <h3>Name matching and record linkage</h3>
+          <h3>NBA three-point revolution: before and after Stephen Curry</h3>
           <div>
-            <p>Matching about 5,000 names using only the first three letters of each, and separating people by membership category.</p>
-            <div class="meta">Python</div>
-            <span class="chip">Notebook being added</span>
+            <p>Did the league's three-point percentage rise after Curry arrived in 2009? Not much: it moved from about 35.4% to 35.8%, while attempts per game nearly doubled (15 to 28). The write-up uses a t-test, a bootstrap interval, and segmented regression, and explains why a before/after comparison cannot show that Curry caused the change.</p>
+            <div class="meta">Python, pandas, SciPy, statsmodels, public Basketball-Reference data</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/nba-three-point-revolution">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/nba-three-point-revolution/nba_three_point_analysis.ipynb">Notebook</a>
           </div>
         </li>
 
         <li class="project">
-          <h3>Classification models</h3>
+          <h3>Court demand forecasting</h3>
           <div>
-            <p>Predicting a yes-or-no outcome from labeled data, and comparing how well different models perform.</p>
-            <div class="meta">Python, Jupyter</div>
-            <span class="chip">Notebook being added</span>
+            <p>Forecasting hourly court bookings a week ahead so a club can plan staffing. On synthetic data, a ridge model on weekday-and-hour slots cut the error to 1.82 courts, versus 2.66 for a plain average.</p>
+            <div class="meta">Python, scikit-learn, time series</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/court-demand-forecasting">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/court-demand-forecasting/court_demand_forecasting.ipynb">Notebook</a>
           </div>
         </li>
 
         <li class="project">
-          <h3>Clustering and segmentation</h3>
+          <h3>Member segmentation</h3>
           <div>
-            <p>Grouping similar records together without labels, to find natural segments in the data.</p>
-            <div class="meta">Python, Jupyter</div>
-            <span class="chip">Notebook being added</span>
+            <p>Clustering 1,500 synthetic members by visits, classes, guest passes, and spend. The best fit was three groups: a core group, a low-engagement group that is the likely retention risk, and a social group.</p>
+            <div class="meta">Python, scikit-learn, k-means, PCA</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/member-segmentation">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/member-segmentation/member_segmentation.ipynb">Notebook</a>
           </div>
         </li>
 
         <li class="project">
-          <h3>Time series analysis</h3>
+          <h3>Pickleball ladder ratings</h3>
           <div>
-            <p>Analyzing data that changes over time to find trends and patterns.</p>
-            <div class="meta">Python, Jupyter</div>
-            <span class="chip">Notebook being added</span>
+            <p>A simulation of a ladder day where winners move up a court and losers move down. With few rounds, an Elo rating sorts players by skill much better than court position; after about six rounds the two are about equal.</p>
+            <div class="meta">Python, NumPy, simulation</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/pickleball-ladder-ratings">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/pickleball-ladder-ratings/ladder_ratings.ipynb">Notebook</a>
           </div>
         </li>
 
         <li class="project">
-          <h3>Exploratory data analysis</h3>
+          <h3>Club analytics with SQL</h3>
           <div>
-            <p>Exploring a dataset with summary statistics and charts before any modeling.</p>
-            <div class="meta">Python, Jupyter</div>
-            <span class="chip">Notebook being added</span>
+            <p>Five SQL queries on a synthetic club database: revenue and churn by plan, busiest hours, engagement, and a list of active members who have not visited in 60 days.</p>
+            <div class="meta">SQL, SQLite, Python</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/club-sql-analytics">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/club-sql-analytics/queries.sql">Queries</a>
           </div>
         </li>
 
         <li class="project">
-          <h3>Interactive dashboard</h3>
+          <h3>Club operations dashboard</h3>
           <div>
-            <p>A dashboard that lets a non-technical audience explore the data on their own.</p>
-            <div class="meta">Tableau or Power BI</div>
-            <span class="chip">Being added</span>
-          </div>
-        </li>
-
-        <li class="project">
-          <h3>SQL and data pipelines</h3>
-          <div>
-            <p>Querying a database and moving data through extract, transform, and load steps.</p>
-            <div class="meta">SQL</div>
-            <span class="chip">Scripts being added</span>
-          </div>
-        </li>
-
-        <li class="project">
-          <h3>Deep learning</h3>
-          <div>
-            <p>Training a neural network on a modeling problem.</p>
-            <div class="meta">Python, Jupyter</div>
-            <span class="chip">Notebook being added</span>
-          </div>
-        </li>
-
-        <li class="project">
-          <h3>Data manipulation and coding exercises</h3>
-          <div>
-            <p>Coding challenges in data manipulation and problem solving.</p>
-            <div class="meta">Python</div>
-            <span class="chip">Being added</span>
+            <p>A one-page dashboard with four KPI tiles and four charts (visits, revenue by plan, churn by plan, visits by hour), built from the SQL project's database.</p>
+            <div class="meta">Python, matplotlib, HTML</div>
+            <span class="chip active">Code available</span>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/tree/main/projects/club-ops-dashboard">Project folder</a>
+            <a href="https://github.com/GeraSanRan/Masters-In-Data-Science/blob/main/projects/club-ops-dashboard/build_dashboard.py">Dashboard code</a>
           </div>
         </li>
       </ul>
@@ -264,8 +273,6 @@ footer{border-top:2px solid var(--rule);padding:1.5rem 0 3rem;color:var(--muted)
         <dd><a href="mailto:gsr303927@icloud.com">gsr303927@icloud.com</a></dd>
         <dt>GitHub</dt>
         <dd><a href="https://github.com/GeraSanRan">github.com/GeraSanRan</a></dd>
-        <!-- Add a LinkedIn row here:
-        <dt>LinkedIn</dt><dd><a href="https://www.linkedin.com/in/YOUR-PROFILE">linkedin.com/in/YOUR-PROFILE</a></dd> -->
       </dl>
     </section>
   </main>
