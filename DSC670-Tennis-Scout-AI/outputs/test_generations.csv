@@ -1,0 +1,1358 @@
+model,key,format_ok,primary_match,either_match,grounded,recognized_bullets,value_accuracy,rank_phrase_accuracy,strength_overlap,weakness_overlap,report
+base model + long prompt,Alexander Bublik | Clay,False,False,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Alexander Bublik is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve and create opportunities for himself. His net approach is strong, with a focus on breaking down the opponent's serve and creating long rallies. Bublik's defensive skills are evident in his ability to recover from losses and maintain a high winner-to-error ratio. His consistent return points and unforced errors indicate a solid serve and serve-plus-one attack. His long rallies and points ending within 3 shots suggest a strong game plan that can be executed effectively on clay."
+base model + long prompt,Alexander Bublik | Grass,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Alexander Bublik is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 17.6% of serve points, and he has a high winner-to-error ratio of 1.26. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 29th. His return points are 34.2%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 62nd. His groundstrokes are mostly forehands, with a high return rate of 67th. His net approach is 69th, and he has won points in long rallies, with a net points won ratio of 16th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate of 67th. His groundstrokes are mostly forehands, with a high return rate of 67th. His groundstrokes are mostly backhands, with a high return rate"
+base model + long prompt,Alexander Bublik | Hard,False,False,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Alexander Bublik is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, and he consistently returns points, showcasing his ability to capitalize on serve errors. Bublik's net play is predominantly forehands, with a strong second-serve, indicating his confidence in the net. His groundstrokes are predominantly backhands, which he uses effectively to break rallies. Despite his consistent return points, Bublik's unforced errors are relatively high, suggesting he may need to improve his serve and return game. His long rallies and points won in long rallies are noteworthy, indicating his ability to handle difficult situations. His net points won are higher than his net points lost, indicating a balanced approach to the net. His points ending within 3 shots are also impressive, showing his ability to capitalize on short rallies. His long rallies and points won in long rallies are strong indicators of his game's depth and versatility."
+base model + long prompt,Alexandr Dolgopolov | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Alexandr Dolgopolov is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate on first serves and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve play. His net approach is solid, with a focus on breaking down the opponent's serve and finding a way to win points. His return points are high, and he has a strong net play, particularly in the deuce court. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are a significant factor in his success, with points won in long rallies being the highest among all players on this surface. His net points per 100 points and net points won are also high, indicating a strong net game. His ranking among the 139 clay-surface players in this dataset is a testament to his consistency and ability to win points."
+base model + long prompt,Alexandr Dolgopolov | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Alexandr Dolgopolov is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate on first serves and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve play. His net approach is solid, with a focus on breaking down the opponent's serve and finding the backhand. His return points are high, and he has a strong net play, particularly in the deuce court. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots"
+base model + long prompt,Arthur Fils | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Arthur Fils is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve and create opportunities for himself. His net approach is strong, with a focus on breaking down the opponent's serve and creating long rallies. His return points are high, and he has a solid net points record, indicating a balanced game that allows him to adapt to different playing styles. His point construction is strong, with winners per 100 points at 23.0, and unforced errors per 100 points at 22.6. His rally length is high, with points ending within 1-3 shots at 59%, 4-6 shots at 22%, and 7-9 shots at 11%. His groundstrokes are mostly forehands, with a focus on hitting inside-out or inside-in. His ranking among the 139 clay-surface profiles in this dataset is aces 52nd, double faults 65th, first-serve points won 77th, second-serve points won 77th, break points saved 91st, return points won 77th, unforced errors 86th, winner-to-error ratio 84th, points ending within 3 shots 79th, long rallies (7+ shots) 26th, points won in long rallies 95th, and net approaches 27th."
+base model + long prompt,Arthur Fils | Grass,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Arthur Fils is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 6.7% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. His return points are 30.5%, which is a significant advantage in terms of points won per 100 points. His point construction is 21.6 winners per 100 points, which is a strong indicator of his ability to win points efficiently. His rally length is 70% within 1-3 shots, indicating a high likelihood of winning points in these scenarios. His groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands, suggesting a preference for these types of shots. His ranking among the 55 grass-surface players in this dataset is a testament to his consistent performance and ability to win points efficiently."
+base model + long prompt,Arthur Fils | Hard,False,False,False,0.9736842105263158,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Arthur Fils is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 9.3% of serve points, and he has a high winner-to-error ratio of 1.01. His net play is mostly forehands and backhands, with a focus on breaking points. He has a strong return game, winning points per 100 points on average at 20.8, and his unforced errors are second only to his return points. His groundstrokes are mostly inside-out or inside-in, and he has a strong net approach, winning points per 100 points on average at 61.5. His long rallies are among the highest in the dataset, with points ending within 3 shots at 77th. His net points won are second only to his return points, and he has a high winner-to-error ratio of 65th. His points ending within 3 shots are 77th, and his long rallies are 22nd. His net points won are 61st, and he has a high winner-to-error ratio of 65th. His groundstrokes are mostly inside-out or inside-in, and he has a strong net approach, winning points per 100 points on average at 61st. His long rallies are among the highest in the dataset, with points ending within 3 shots at 77th. His net points won are second only to his return points, and he has a high winner-to-error ratio of 65th. His points ending within 3 shots are 77th, and his long rallies are 22nd. His net points won are 61st, and he has a high winner-to-error ratio of 65th. His groundstrokes are mostly inside-out or inside-in, and he has a strong net approach, winning points per 100 points on average at 61st. His long rallies are among the highest in the dataset, with points ending within 3 shots at 77th. His net points won are second only to his return points, and he has a high winner-to-error ratio of 65th. His points ending within 3 shots are 77th, and his long rallies are 22nd. His net points won are 61st, and he has a high winner-to-error ratio of 65th. His groundstrokes are mostly inside-out or inside-in, and he has a strong net approach, winning points per 100 points on average at 61st. His long rallies are among the highest in the dataset, with points ending within 3 shots at 77th. His net points won"
+base model + long prompt,Borna Coric | Clay,True,False,True,0.8333333333333334,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Borna Coric is a versatile all-court player with a strong serve and a knack for winning points. His consistent return play and high winner-to-error ratio indicate a reliable baseline player. However, his ability to win points quickly behind the serve and his comfortable ability to absorb the pace on longer rallies suggest a versatile player who can adapt to different playing styles.
+
+**STRENGTHS:**
+
+- **Serve:** Coric's high winner-to-error ratio and consistent return play indicate a reliable baseline player. His ability to win points quickly behind the serve and his comfortable ability to absorb the pace on longer rallies suggest a versatile player who can adapt to different playing styles.
+- **Return:** Coric's return points won rate of 36.1% is a strong indicator of his ability to win points quickly behind the serve. His consistent return play and his ability to win points quickly behind the serve suggest a reliable baseline player.
+- **Point Construction:** Coric's winners per 100 points of 15.2 indicates a strong point construction, which is a key factor in winning points. His unforced errors per 100 points of 20.1 also suggest a strong point construction.
+
+**WEAKNESSES:**
+
+- **Serve:** While Coric's serve is consistent, his ability to win points quickly behind the serve and his comfortable ability to absorb the pace on longer rallies suggest a versatile player who can adapt to different playing styles.
+- **Return:** Coric's return play is consistent, but his ability to win points quickly behind the serve and his comfortable ability to absorb the pace on longer rallies suggest a versatile player who can adapt to different playing styles.
+- **Point Construction:** While Coric's point construction is strong, his unforced errors per 100 points of 20.1 also suggest a strong point construction, which is a key factor in winning points.
+
+**GAME PLAN FOR THE OPPONENT:**
+
+1. **Serve:** Focus on Coric's consistent return play and his ability to win points quickly behind the serve. Use his consistent return play to create opportunities for him to win points.
+2. **Return:** Focus on Coric's return play and his ability to win points quickly behind the serve. Use his consistent return play to create opportunities for him to win points.
+3. **Point Construction:** Focus on Coric's point construction and his ability to win points quickly behind the serve. Use his consistent point construction to create opportunities for him to win points.
+4. **Rally Length:** Focus on Coric's rally length and his ability to win points quickly behind the serve. Use his consistent rally length to create opportunities for him to win points.
+5. **Net Play:** Focus on Coric's net play and his ability to win points quickly behind the serve. Use his consistent net play"
+base model + long prompt,Borna Coric | Hard,True,False,False,0.7692307692307693,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Borna Coric is a versatile all-court player with a strong serve and a knack for winning points. His high winner and error rates, combined with his comfortable ability to absorb the pace of long rallies, make him a formidable opponent on hard courts. Coric's ability to win quickly behind the serve and first strike, combined with his frequent and successful net approaches, makes him a reliable and consistent player on the hard surface.
+
+**STRENGTHS:**
+
+- **Serve:** Coric's high winner and error rates make him a formidable serve player, allowing him to dominate long rallies and win points quickly.
+- **Rally Length:** His ability to win points within 1-3 shots is a testament to his consistent game and his ability to capitalize on short rallies.
+- **Net Play:** Coric's consistent net approach and ability to win points in short rallies make him a reliable net player on hard courts.
+
+**WEAKNESSES:**
+
+- **Aces:** While Coric has a high ace rate, his aces are not as consistent as some other players on the surface. He may struggle to consistently hit the aces, especially in short rallies.
+- **Double Faults:** Coric has a high double fault rate, which can be a concern for his opponents who may be looking for a way to break him down.
+- **First Serve Points:** Coric's first serve points are relatively low, which may not be enough to compensate for his overall game.
+- **Second Serve Points:** His second serve points are also relatively low, which may not be enough to keep up with his overall game.
+
+**GAME PLAN FOR THE OPPONENT:**
+
+1. **Serve:** Focus on Coric's consistent serve play and his ability to win points quickly. Use his aces to create opportunities and his consistent serve to keep the ball in play.
+2. **Rally Length:** Use Coric's ability to win points within 1-3 shots to create opportunities and break down his opponents' rallies.
+3. **Net Play:** Use Coric's consistent net approach to create opportunities and break down his opponents' net play.
+4. **Aces:** Use Coric's consistent aces to create opportunities and break down his opponents' aces.
+5. **Double Faults:** Use Coric's high double fault rate to create opportunities and break down his opponents' double faults.
+6. **First Serve Points:** Use Coric's high first serve points to create opportunities and break down his opponents' first serve points.
+7. **Second Serve Points:** Use Coric's high second serve points to create opportunities and break down his opponents' second serve points.
+8. **Ground Strokes:** Use Coric's consistent ground strokes to create opportunities and break down his opponents' ground strokes.
+9. **Rally Length:** Use Coric's"
+base model + long prompt,Daniel Evans | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Daniel Evans is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 5.6% of serve points, and he has a high winner-to-error ratio of 0.96. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 9th. His return points are 38.6%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 76th. His groundstrokes are mostly forehands, with a high break points saved ratio of 96th. His net approach is 99th, and he has won points in long rallies, with a net points won ratio of 34th. His return points are 38.6%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 76th. His groundstrokes are mostly forehands, with a high break points saved ratio of 96th. His net approach is 99th, and he has won points in long rallies, with a net points won ratio of 34th. His return points are 38.6%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 76th. His groundstrokes are mostly forehands, with a high break points saved ratio of 96th. His net approach is 99th, and he has won points in long rallies, with a net points won ratio of 34th. His return points are 38.6%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 76th. His groundstrokes are mostly forehands, with a high break points saved ratio of 96th. His net approach is 99th, and he has won points in long rallies, with a net points won ratio of 34th. His return points are 38.6%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 76th. His groundstrokes are mostly forehands, with a high break points saved ratio of 96th. His net approach is 99th, and he has won points in long rallies, with a net points won ratio of 34th. His return points are 38.6%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 76th. His groundstrokes are mostly forehands, with a high break points saved ratio of 96th. His net approach is 99th, and he"
+base model + long prompt,Daniel Evans | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Daniel Evans is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 5.3% of serve points, and he has a high winner-to-error ratio of 1.18. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 21st. His return points are 37.4%, and he has won points in long rallies (7+ shots) at 80th. His groundstrokes are mostly forehands, with a high break points saved rate of 55th. His net approach is 94th, and he has won points in net approaches at 21st. His return points are 37.4%, and he has won points in net approaches at 21st. His unforced errors are 1st, and he has won points in unforced errors at 91st. His long rallies (7+ shots) are 67th, and he has won points in long rallies at 80th. His groundstrokes are mostly forehands, with a high break points saved rate of 55th. His net points won are 63.6%, and he has won points in net approaches at 21st. His return points are 37.4%, and he has won points in long rallies at 80th. His unforced errors are 1st, and he has won points in unforced errors at 91st. His long rallies (7+ shots) are 67th, and he has won points in long rallies at 80th. His groundstrokes are mostly forehands, with a high break points saved rate of 55th. His net points won are 63.6%, and he has won points in net approaches at 21st. His return points are 37.4%, and he has won points in long rallies at 80th. His unforced errors are 1st, and he has won points in unforced errors at 91st. His long rallies (7+ shots) are 67th, and he has won points in long rallies at 80th. His groundstrokes are mostly forehands, with a high break points saved rate of 55th. His net points won are 63.6%, and he has won points in net approaches at 21st. His return points are 37.4%, and he has won points in long rallies at 80th. His unforced errors are 1st, and he has won points in unforced errors at 91st. His long rallies (7+ shots) are 6"
+base model + long prompt,Diego Schwartzman | Clay,True,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Diego Schwartzman is a versatile all-court player with a strong serve and a knack for winning points. He consistently returns serve points and has a high winner-to-error ratio, making him a reliable defensive specialist. His ability to win points quickly behind the serve and first strike is a significant strength. However, his reliance on retrieving and long rallies limits his success in the net, which is a weakness. His consistent return points and net points won indicate a balanced game, but his lack of success in the net could be a concern for his opponents.
+
+**STRENGTHS:** 
+- High winner and error counts
+- Short-to-medium rallies
+- Rarely at the net
+- Fast return points
+- Long rallies
+
+**WEAKNESSES:** 
+- Limited success in the net
+- Shorter return points
+- High error rate
+- Limited success in the net
+
+**GAME PLAN FOR THE OPPONENT:** 
+- Focus on Schwartzman's return points and net points won to build confidence and establish a strong baseline game.
+- Use his long rallies to create opportunities for Schwartzman to win points.
+- Encourage Schwartzman to focus on his return points and net points won to improve his game.
+- Keep an eye on his return points and net points won to identify areas for improvement and potential strategies."
+base model + long prompt,Diego Schwartzman | Hard,True,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Diego Schwartzman is a versatile all-court player with a strong serve and a knack for winning points. He consistently returns serve points and has a high winner-to-error ratio, making him a reliable defensive specialist. His ability to win points quickly behind the serve and first strike is a significant strength. However, his reliance on retrieving and long rallies limits his success in the net, which is a weakness. His consistent return points and net points won indicate a balanced game, but his lack of success in the net could be a concern for his opponents.
+
+**STRENGTHS:** 
+- High winner and error counts
+- Short-to-medium rallies
+- Rarely at the net
+- Fast return points
+- Long rallies
+
+**WEAKNESSES:** 
+- Limited success in the net
+- Shorter return points
+- Fewer points won in the net compared to the serve
+
+**GAME PLAN FOR THE OPPONENT:**
+- Focus on Schwartzman's return points and net points won to build a solid baseline game.
+- Use his long rallies to create opportunities for Schwartzman to win points.
+- Encourage Schwartzman to focus on his return points and net points won to improve his game.
+- Keep an eye on his return points and net points won to identify areas for improvement."
+base model + long prompt,Emil Ruusuvuori | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Emil Ruusuvuori is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve and create opportunities for himself. Ruusuvuori's net approach is crucial, with a focus on breaking down the opponent's serve and finding a way to win points. His return points are a significant factor in his success, with a high win rate in return points. His point construction is strong, with winners per 100 points at 11.3, indicating a high likelihood of winning points. His rally length is also impressive, with points ending within 1-3 shots at 52%, 4-6 shots at 21%, and 7-9 shots at 14%. His net play is efficient, with a high success rate in net points per 100 points and a high success rate in net points won. His groundstrokes are mostly forehands, with a high success rate in hitting inside-out or inside-in forehands. His ranking among the 139 clay-surface players in this dataset is a testament to his ability to consistently win points."
+base model + long prompt,Emil Ruusuvuori | Grass,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Emil Ruusuvuori is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve and create opportunities for himself. Ruusuvuori's net approach is crucial, with a focus on breaking down the opponent's serve and creating long rallies. His return points are a significant factor in his success, and he is known for his ability to win points quickly behind the serve. His consistent return points and strong net approach make him a valuable asset on the grass surface."
+base model + long prompt,Emil Ruusuvuori | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Emil Ruusuvuori is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve and create opportunities for himself. Ruusuvuori's net approach is strong, with a focus on breaking down the opponent's serve and creating long rallies. His return points are a significant factor in his success, with a high win rate in return points. His point construction is strong, with winners per 100 points at 13.7, indicating a high likelihood of winning points. His rally length is also impressive, with points ending within 1-3 shots at 53%, 4-6 shots at 22%, and 7-9 shots at 12%. His net points per 100 points are at 9.5, indicating a high success rate in net play. His groundstrokes are predominantly forehands, with a focus on hitting inside-out or inside-in. His return points are a significant factor in his success, with a high win rate in return points. His unforced errors are at 90th, indicating a high success rate in preventing errors. His winner-to-error ratio is at 5, suggesting a high likelihood of winning points. His points ending within 3 shots are at 12th, indicating a high likelihood of winning points. His long rallies are at 88th, showcasing his ability to break down opponents' serve and create opportunities for himself. His points won in long rallies are at 88th, indicating a high likelihood of winning points. His net approaches are at 24th, showcasing his ability to break down the opponent's serve and create opportunities for himself. His net points won are at 93rd, indicating a high success rate in net play."
+base model + long prompt,Ernests Gulbis | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Ernests Gulbis is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate on first serves and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve play. His net approach is strong, with a high success rate on break points and a low error rate. His return points are high, and he has a strong net play, particularly in the deuce court. His groundstrokes are mostly forehands, with a high success rate on inside-out or inside-in forehands. His return points are high, and he has a strong net approach, particularly in the deuce court. His long rallies are a significant factor in his success, with a high success rate on 7+ shots. His unforced errors are low, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high winner-to-error ratio. His long rallies are a significant factor in his success, with a high success rate on 7+ shots. His net points won are high, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high winner-to-error ratio. His long rallies are a significant factor in his success, with a high success rate on 7+ shots. His net points won are high, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high winner-to-error ratio. His long rallies are a significant factor in his success, with a high success rate on 7+ shots. His net points won are high, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high winner-to-error ratio. His long rallies are a significant factor in his success, with a high success rate on 7+ shots. His net points won are high, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high winner-to-error ratio. His long rallies are a significant factor in his success, with a high success rate on 7+ shots. His net points won are high, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high winner-to-error ratio. His long rallies are a significant factor in his success, with a high success rate on 7+ shots. His net points won are high, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high winner-to-error ratio. His long rallies are a significant factor in his success"
+base model + long prompt,Federico Coria | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Federico Coria is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 3.0% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. Coria's return points are 40.2%, which is a significant advantage in terms of points won per 100 points. His point construction is 10.3 winners per 100 points, which is a strong indicator of his ability to win points efficiently. His rally length is 49% within 1-3 shots, 45.6% within 7-9 shots, and 12% within 10+ shots, suggesting he can maintain a high level of consistency in his rallies. His groundstrokes are mostly forehands, with a high percentage of backhands, indicating a balanced approach to the game. His ranking among the 139 clay-surface players in this dataset is aces 20th, double faults 40th, first-serve points won 8th, second-serve points won 51st, break points saved 6th, return points won 81st, unforced errors 2nd, winner-to-error ratio 25th, points ending within 3 shots 14th, long rallies (7+ shots) 82nd, points won in long rallies 19th, and net approaches 19th."
+base model + long prompt,Filip Misolic | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Filip Misolic is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 3.7% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. Misolic's return points are 40.9%, and he has won many points in return games, suggesting a balanced approach to the game. His point construction is 15.9 winners per 100 points, which is a good balance between winning and losing points. His rally length is 53% points ending within 1-3 shots, indicating a strong ability to control the game. His net play is net points per 100 points 10.8, and his groundstrokes are mostly forehands or backhands, which are effective in both short and long rallies. His ranking among the 139 clay-surface players in this dataset is aces 30th, double faults 32nd, first-serve points won 89th, second-serve points won 33rd, break points saved 88th, return points won 88th, and unforced errors 7th. His winner-to-error ratio is 89th, indicating a balanced approach to the game. His points ending within 3 shots are 31st, and his long rallies are 59th, suggesting a strong ability to control the game. His net approach is net points won 51st, which is a good balance between winning and losing points."
+base model + long prompt,Flavio Cobolli | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Flavio Cobolli is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He has a strong return game, winning points per 100 serve points, and his unforced errors are second only to his return points. His net play is efficient, with a high success rate in breaking points and a high success rate in returning points. He has a strong groundstroke, with a high success rate in forehands and a high success rate in backhands. His long rallies are a significant part of his game, with a high success rate in points ending within 3 shots. His net approach is efficient, with a high success rate in breaking points and a high success rate in returning points. His net points won are second only to his return points, and his winner-to-error ratio is 0.68. He has a strong point construction, with winners per 100 points and unforced errors per 100 points. His rally length is a significant part of his game, with points ending within 1-3 shots being 55% of his points. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is efficient, with a high success rate in forehands and a high success rate in backhands. His groundstroke is"
+base model + long prompt,Flavio Cobolli | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Flavio Cobolli is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He has a strong return game, winning points per 100 serve points, and his unforced errors are second only to his return points. His net play is efficient, with a high success rate in breaking points and a high success rate in returning points. He has a strong groundstroke, with a high success rate in forehands and backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. He has a strong net approach, with a high success rate in net points and a high success rate in net points won. His long rallies are a significant part of his game, with a high success rate in points ending within 3 shots and a high success rate in points won in long rallies. His net points won are second only to his return points, and his winner-to-error ratio is 7th. He has a strong winner-to-error ratio, with a high success rate in points ending within 3 shots and a high success rate in points won in long rallies. His points ending within 3 shots are 55th, and his long rallies are 43rd. His net points won are 12th, and his winner-to-error ratio is 7th. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes are mostly inside-out or inside-in, with a high success rate in backhands. His groundstrokes"
+base model + long prompt,Gregoire Barrere | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Gregoire Barrere is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 4.1% of serve points, and he has a high winner-to-error ratio of 0.66. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 3rd. His return points are second, and he has won points in long rallies (7+ shots) at a rate of 20th. His groundstrokes are mostly forehands, and he has a net points won ratio of 3rd. His net approach is 38th, and he has won points in net approaches at a rate of 20th. His return points are second, and he has won points in net approaches at a rate of 3rd. His unforced errors are 65th, and he has won points in long rallies (7+ shots) at a rate of 20th. His winner-to-error ratio is 8th, and he has won points in long rallies (7+ shots) at a rate of 20th. His points ending within 3 shots are 63rd, and he has won points in long rallies (7+ shots) at a rate of 20th. His long rallies (7+ shots) are 23rd, and he has won points in long rallies (7+ shots) at a rate of 20th. His groundstrokes are mostly forehands, and he has a net points won ratio of 3rd. His net points won ratio is 3rd, and he has won points in net approaches at a rate of 20th. His return points are second, and he has won points in net approaches at a rate of 3rd. His unforced errors are 65th, and he has won points in long rallies (7+ shots) at a rate of 20th. His winner-to-error ratio is 8th, and he has won points in long rallies (7+ shots) at a rate of 20th. His points ending within 3 shots are 63rd, and he has won points in long rallies (7+ shots) at a rate of 20th. His long rallies (7+ shots) are 23rd, and he has won points in long rallies (7+ shots) at a rate of 20th. His groundstrokes are mostly forehands, and he has a net points won ratio of 3rd. His net points won ratio is 3rd, and he has won points in net approaches at a rate of 20th. His return points are second, and he has won points in net"
+base model + long prompt,Grigor Dimitrov | Clay,False,False,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Grigor Dimitrov is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 5.4% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. His return points are 36.4%, and he has won many points in return positions, suggesting a balanced approach to the game. His point construction is 16.2 winners per 100 points, which is a good balance between winning and losing points. His rally length is 57% points ending within 1-3 shots, indicating a strong ability to control the game. His net play is net points per 100 points 10.0, and his groundstrokes are mostly forehands or backhands, which are effective in both short and long rallies. His ranking among the 139 clay-surface players is aces 60th, double faults 86th, first-serve points won 87th, second-serve points won 23rd, break points saved 25th, return points won 40th, and unforced errors 53rd. His winner-to-error ratio is 49th, indicating a balanced approach to the game. His points ending within 3 shots are 66th, and his long rallies are 38th, suggesting he has a good ability to control the game. His net approach is net points won 95th, which is a strong indication of his ability to win points."
+base model + long prompt,Grigor Dimitrov | Grass,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Grigor Dimitrov is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 14.0% of serve points, and he has a high winner-to-error ratio of 1.24. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 75th. His return points are 36.7%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 60th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His net approach is a double fault of 80th, and he has won points in long rallies, with a net points won ratio of 95th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 56th. His groundstrokes are mostly forehands, with a high break points saved ratio of 64th. His groundstrokes are mostly backhands, with a high"
+base model + long prompt,Grigor Dimitrov | Hard,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Grigor Dimitrov is a versatile all-court player with a strong serve and a knack for winning points. His high winner and error rates, combined with his comfortable ability to absorb the pace of long rallies, make him a formidable opponent on hard courts. His ability to win quickly behind the serve and first strike, combined with his long rallies, makes him a reliable long-term threat. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His ability to win points in rallies of 7+ shots and his consistent return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His consistent return points and net points per"
+base model + long prompt,Jack Draper | Clay,False,False,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jack Draper is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 6.3% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. Draper's return points are 36.5%, which is a significant advantage in terms of points won per 100 points. His point construction is 15.9 winners per 100 points, which is a strong indicator of his ability to win points efficiently. His rally length is 55% of points ending within 1-3 shots, suggesting he can maintain a high level of consistency in his rallies. His net play is net points per 100 points 11.1, indicating a strong net game. His groundstrokes are mostly forehands, with a high percentage of backhands, suggesting he has a good understanding of the game and can adapt to different types of shots. His ranking among the 139 clay-surface players in this dataset is a testament to his consistent performance and ability to win points efficiently."
+base model + long prompt,Jack Draper | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jack Draper is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 10.0% of serve points, indicating a high success rate in returning the ball. Draper's return points are 37.8%, which suggests he is a reliable returner. His net points per 100 points are 9.8, indicating a balanced approach to the net. Draper's groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands, while backhands are predominantly down the line. His return points are 67.6%, which is a significant advantage in terms of points won. Draper's unforced errors are 8th, indicating a balanced approach to error management. His winner-to-error ratio is 92nd, showing a balanced approach to winning points. His points ending within 3 shots are 29th, which is a good indicator of his ability to control the game. His long rallies (7+ shots) are 80th, indicating a strong ability to handle long rallies. His points won in long rallies are 70th, showing a balanced approach to winning points. His net points won are 53rd, which is a good indicator of his ability to control the net. His groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands, while backhands are predominantly down the line. His return points are 67.6%, which is a significant advantage in terms of points won. His unforced errors are 8th, indicating a balanced approach to error management. His winner-to-error ratio is 92nd, showing a balanced approach to winning points. His points ending within 3 shots are 29th, which is a good indicator of his ability to control the game. His long rallies (7+ shots) are 80th, indicating a strong ability to handle long rallies. His points won in long rallies are 70th, showing a balanced approach to winning points. His net points won are 53rd, which is a good indicator of his ability to control the net. His groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands, while backhands are predominantly down the line. His return points are 67.6%, which is a significant advantage in terms of points won. His unforced errors are 8th, indicating a balanced approach to error management. His winner-to-error ratio is 92nd, showing a balanced approach to winning points. His points ending within 3 shots are 29th, which is a good indicator of his ability to control the game. His long rallies (7+ shots) are 8"
+base model + long prompt,Jaume Munar | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"Jaume Munar is a versatile clay court player with a strong serve and a solid baseline game. His serve placement is deuce court wide, with a high success rate in both body and T positions. He has a high winner-to-error ratio of 0.79, indicating a high level of consistency in his game. His net play is strong, with a high net points per 100 points and a high net points won. He has a strong groundstroke, with a high frequency of forehands and backhands. His return points are high, with a high winner-to-error ratio of 38th. His long rallies are also strong, with a high points ending within 3 shots and a high points won in long rallies. His net approach is strong, with a high net points won and a high winner-to-error ratio. His consistency in his game and his ability to win points consistently make him a valuable player for coaches to scout."
+base model + long prompt,Jaume Munar | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"Jaume Munar is a versatile player who excels in both baseline and net play. His serve placement is deuce court wide, with a strong focus on the first serve and first-serve points. He has a high winner-to-error ratio of 1.07, indicating a high level of consistency in his game. His return points are second only to the serve, suggesting he is a reliable baseline player. Munar's net play is strong, with a high net points per 100 points and a high net points won, indicating a solid net game. His groundstrokes are mostly forehands, with a high percentage of backhands. Despite his consistent play, Munar struggles with long rallies, finishing in 90th place in terms of points won in long rallies. His net approach is strong, with a high net points won and a high winner-to-error ratio. His long rallies are a significant factor in his game, with a high percentage of points ending within 3 shots. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, indicating a strong baseline game. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return points are second only to the serve, suggesting he is a reliable baseline player. His return"
+base model + long prompt,Jeremy Chardy | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"Jeremy Chardy is a versatile player who excels in both baseline and net play. His serve placement is deuce court wide, with a strong focus on the first serve, which he consistently wins. His return points are second only to his first serve, indicating a solid serve-to-return ratio. His point construction is strong, with winners per 100 points at 17.8, which is among the top performers on the surface. His rally length is also impressive, ending within 1-3 shots 66% of the time, which is a significant advantage in terms of winning points. His net play is strong, with a high net points per 100 points and a high net points won, which are among the top performers on the surface. His groundstrokes are mostly forehands, with a high percentage of backhands, which is a strong defensive play. His ranking among the 213 hard-surface players in this dataset is a testament to his consistent performance."
+base model + long prompt,Jesper De Jong | Clay,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jesper De Jong is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate on first serves and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve play. De Jong's net approach is solid, with a focus on breaking down the opponent's serve and finding a way to win points. His return points are high, and he has a strong net play, particularly in the deuce court. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within 3 shots being the most common. His long rallies are the most common, with points won in long rallies being the most common. His net points per 100 points and net points won are also high. His groundstrokes are mostly forehands, but he also has a decent backhand. His point construction is strong, with winners per 100 points and unforced errors per 100 points being high. His rally length is in the middle, with points ending within"
+base model + long prompt,Jesper De Jong | Hard,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jesper De Jong is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate on first serves and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve play. De Jong's return points are high, and he has a strong net play, particularly in the ad court, where he has won 73.7% of his points. His groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands. His net approach is strong, with a high success rate on break points and a low error rate. His long rallies (7+ shots) and points won in long rallies are also impressive. His net points per 100 points are high, and he has a high winner-to-error ratio. His unforced errors are low, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high net points won. His long rallies (7+ shots) and points won in long rallies are also impressive. His net points won are high, and he has a high winner-to-error ratio. His groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands. His net approach is strong, with a high success rate on break points and a low error rate. His long rallies (7+ shots) and points won in long rallies are also impressive. His net points per 100 points are high, and he has a high winner-to-error ratio. His unforced errors are low, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high net points won. His long rallies (7+ shots) and points won in long rallies are also impressive. His net points won are high, and he has a high winner-to-error ratio. His groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands. His net approach is strong, with a high success rate on break points and a low error rate. His long rallies (7+ shots) and points won in long rallies are also impressive. His net points per 100 points are high, and he has a high winner-to-error ratio. His unforced errors are low, and he has a high winner-to-error ratio. His points ending within 3 shots are high, and he has a high net points won. His long rallies (7+ shots) and points won in long rallies are also impressive. His net points won are high, and he has a high winner-to-error ratio. His groundstrokes are mostly forehands, with a focus on inside-out or inside"
+base model + long prompt,Jiri Lehecka | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jiri Lehecka is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 5.2% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. Lehecka's return points are 34.1%, which is a significant advantage in terms of points won per 100 points. His point construction is 19.6 winners per 100 points, which is a strong indicator of his ability to win points efficiently. His rally length is 59% within 1-3 shots, 4-6 shots, and 7-9 shots, showing his ability to maintain control over the game. His net play is net points per 100 points 13.6, net points won 60.7%, and his groundstrokes are mostly forehands or backhands, which are effective in both short and long rallies. Lehecka's ranking among the 139 clay-surface players in this dataset is a testament to his consistent performance and ability to win points efficiently."
+base model + long prompt,Jiri Lehecka | Grass,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jiri Lehecka is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 12.3% of serve points, and he has a high winner-to-error ratio of 1.28. Lehecka's return points are 30.2%, and he has won points in 75% of his rallies within 1-3 shots. His net points per 100 points are 10.7, and he has won points in 58% of his rallies of 7+ shots. Lehecka's groundstrokes are mostly forehands, with a high percentage of backhands. His ranking among the 55 grass-surface players in this dataset is 89th, and he has won points in 93% of his rallies within 3 shots. His long rallies (7+ shots) have a high winner-to-error ratio of 65th, and he has won points in 58% of his rallies of 7+ shots. His net approaches are 27th, and he has won points in 20th of his rallies of 7+ shots."
+base model + long prompt,Jiri Lehecka | Hard,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jiri Lehecka is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate on first serves and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve play. Lehecka's net approach is efficient, with a high success rate on break points and a low error rate. His return points are high, and he has a strong net play, particularly in the deuce court. His groundstrokes are mostly forehands, with a high success rate on inside-out or inside-in forehands. Lehecka's point construction is strong, with winners per 100 points at 22.2, unforced errors per 100 points at 19.5, and a winner-to-error ratio of 1.14. His rally length is mostly within 1-3 shots, with a high success rate on 7+ shots. His net points per 100 points are 13.2, and his net points won are 66.9%. His groundstrokes are mostly forehands, with a high success rate on inside-out or inside-in forehands. Lehecka's ranking among the 213 hard-surface players in this dataset is aces 64th, double faults 42nd, first-serve points won 61st, second-serve points won 46th, break points saved 78th, return points won 29th, and winners 94th. His unforced errors are 72nd, and his winner-to-error ratio is 86th. His points ending within 3 shots are 73rd, and his long rallies are 33rd. His net approaches are mostly forehands, with a high success rate on inside-out or inside-in forehands."
+base model + long prompt,Jo Wilfried Tsonga | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"Jo Wilfried Tsonga is a versatile player who excels in both baseline and net play. His serve placement is deuce court wide, with a strong focus on the first serve and first-serve points. He has a high winner-to-error ratio of 0.67, indicating a high level of consistency in his game. Tsonga's return points are second only to his first serve points, suggesting he is a reliable baseline player. His net play is strong, with a high winner-to-error ratio of 12th, indicating a high level of consistency in his net game. His groundstrokes are mostly forehands, with a high percentage of backhands, further emphasizing his net play. Overall, Tsonga is a balanced player who excels in both baseline and net play, making him a valuable asset to any team."
+base model + long prompt,Jo Wilfried Tsonga | Grass,False,False,False,1.0,0.0,,,0.0,0.0,"Jo Wilfried Tsonga is a versatile player who excels in both baseline and net play. His serve placement is deuce court wide, with a strong focus on the first serve and first-serve points. He has a high winner-to-error ratio of 1.04, indicating a high level of consistency in his game. Tsonga's return points are second only to his first serve points, suggesting he is a reliable baseline player. His net play is strong, with a high net points per 100 points and a high net points won, indicating a strong net game. His groundstrokes are mostly forehands, with a high percentage of backhands. Overall, Tsonga is a balanced player who can adapt to different types of play, making him a valuable asset on the grass surface."
+base model + long prompt,Jo Wilfried Tsonga | Hard,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Jo Wilfried Tsonga is a versatile all-court player with a strong serve and a knack for winning points. His high winner and error rates, combined with his comfortable ability to absorb the pace of long rallies, make him a formidable opponent on hard courts. His ability to win quickly behind the serve and first strike, combined with his long rallies, makes him a reliable long-term threat. His consistent return points and net points per 100 points indicate a solid serve and net game, while his strong groundstrokes and return points suggest a reliable baseline player. His ability to win points in rallies of 7+ shots and his consistent return points and net points per 100 points further solidify his status as a reliable all-court player."
+base model + long prompt,Joao Sousa | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Joao Sousa is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 2.9% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. Sousa's return points are 33.9%, which is a significant advantage in terms of points won per 100 points. His point construction is 10.5 winners per 100 points, which is a strong indicator of his ability to win points efficiently. His rally length is 58% within 1-3 shots, 46.8% within 7-9 shots, and 8% within 10+ shots, suggesting he can maintain a high level of consistency in his rallies. His groundstrokes are mostly forehands, with a focus on inside-out or inside-in forehands, indicating a preference for short, high-impact shots. His ranking among the 139 clay-surface players in this dataset is aces 18th, double faults 61st, first-serve points won 45th, second-serve points won 1st, break points saved 13th, return points won 17th, unforced errors 44th, winner-to-error ratio 4th, points ending within 3 shots 75th, long rallies (7+ shots) 22nd, points won in long rallies 27th, and net approaches 31st. His net points won are 66th, indicating a strong focus on net play."
+base model + long prompt,Joao Sousa | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Joao Sousa is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve and create opportunities for himself. Sousa's net approach is solid, with a focus on breaking down the opponent's serve and creating long rallies. His return points are a significant factor in his success, with a high win rate in points ending within 3 shots. His unforced errors are moderate, with a high winner-to-error ratio. His long rallies and points won in long rallies are also notable, with a high success rate in these areas. His net points per 100 points are high, with a focus on breaking down the opponent's serve and creating long rallies. His groundstrokes are mostly inside-out or inside-in, with a high success rate in these areas. His return points are a significant factor in his success, with a high win rate in points ending within 3 shots. His unforced errors are moderate, with a high winner-to-error ratio. His long rallies and points won in long rallies are also notable, with a high success rate in these areas. His net points won are high, with a focus on breaking down the opponent's serve and creating long rallies. His groundstrokes are mostly inside-out or inside-in, with a high success rate in these areas. His return points are a significant factor in his success, with a high win rate in points ending within 3 shots. His unforced errors are moderate, with a high winner-to-error ratio. His long rallies and points won in long rallies are also notable, with a high success rate in these areas. His net points per 100 points are high, with a focus on breaking down the opponent's serve and creating long rallies. His groundstrokes are mostly inside-out or inside-in, with a high success rate in these areas. His return points are a significant factor in his success, with a high win rate in points ending within 3 shots. His unforced errors are moderate, with a high winner-to-error ratio. His long rallies and points won in long rallies are also notable, with a high success rate in these areas. His net points won are high, with a focus on breaking down the opponent's serve and creating long rallies. His groundstrokes are mostly inside-out or inside-in, with a high success rate in these areas. His return points are a significant factor in his success, with a high win rate in points ending within 3 shots. His unforced errors are moderate, with a high winner-to-error ratio. His long rallies and points won in long rallies are also notable, with a high success"
+base model + long prompt,Juan Carlos Prado Angelo | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Juan Carlos Prado Angelo is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 2.3% of serve points, and he has a high winner-to-error ratio of 0.48. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 71st. His return points are 42.3%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 1st. His groundstrokes are mostly forehands, with a high break points saved rate of 44.0%. His net approach is aces 9th, double faults 38th, first-serve points won 7th, second-serve points won 31st, and net points won 71st. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 1st. His long rallies (7+ shots) have a winner-to-error ratio of 58th, and he has won points in long rallies with a net points won ratio of 71st. His net points won are 70.9%, and he has won points in points ending within 3 shots with a winner-to-error ratio of 1st. His groundstrokes are mostly forehands, with a high break points saved rate of 44.0%. His net approach is aces 9th, double faults 38th, first-serve points won 7th, second-serve points won 31st, and net points won 71st. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 1st. His long rallies (7+ shots) have a winner-to-error ratio of 58th, and he has won points in long rallies with a net points won ratio of 71st. His net points won are 70.9%, and he has won points in points ending within 3 shots with a winner-to-error ratio of 1st. His groundstrokes are mostly forehands, with a high break points saved rate of 44.0%. His net approach is aces 9th, double faults 38th, first-serve points won 7th, second-serve points won 31st, and net points won 71st. His groundstrokes are mostly backhands, with a high winner-to-error ratio of 1st. His long rallies (7+ shots) have a winner-to-error ratio of 58th, and he has won points in long rallies with a net points won ratio of 71st. His net points won are 70.9"
+base model + long prompt,Karen Khachanov | Clay,False,False,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** Counterpuncher
+**SECONDARY ARCHETYPE:** Defensive Specialist
+**PROFILE SUMMARY:** Karen Khachanov is a versatile clay court player with a strong serve and a defensive mindset. She consistently returns points and has a high winner-to-error ratio, making her a reliable defensive specialist. Her ability to win points quickly behind the serve and her comfortable ability to absorb the pace on longer rallies make her a formidable counterpuncher. Despite her defensive skills, she is also a reliable baseline player, with a high winner-to-error ratio and a strong return rate. Her consistent return points and long rallies make her a reliable baseline player, while her defensive skills and ability to absorb the pace on longer rallies make her a reliable counterpuncher."
+base model + long prompt,Karen Khachanov | Hard,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** Counterpuncher
+**SECONDARY ARCHETYPE:** All-court Player
+**PROFILE SUMMARY:** Karen Khachanov is a versatile all-court player with a strong serve and a high winner and error rate. Her baseline play is often successful, but she struggles with returning points and winning return points. Her return points are particularly strong, with a high percentage of winners ending within 3 shots. She is known for her ability to win points quickly behind the serve and first strike, often ending within 3 shots. Her net play is strong, with a high percentage of winners and unforced errors. Her groundstrokes are mostly forehands, with a high percentage of backhands. She is a defensive specialist, relying on retrieving and long rallies to win points. Her game plan is to play defensively and aggressively, using her strong serve and return points to win points quickly."
+base model + long prompt,Lukas Rosol | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Lukas Rosol is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate in returning points and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve and create opportunities for himself. Rosol's net approach is crucial, with a focus on breaking down the opponent's serve and creating long rallies. His return points are a significant factor in his success, with a high win rate in points ending within 3 shots. His unforced errors are relatively low, indicating a balanced approach to the game. His long rallies and points won in long rallies are also noteworthy, showcasing his ability to adapt and win in challenging situations."
+base model + long prompt,Marc Polmans | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Marc Polmans is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 6.8% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. Polmans' return points are 40.2%, and he has won many points in return positions, suggesting he is a reliable baseline player. His point construction is 13.6 winners per 100 points, which is a good balance between winners and unforced errors. His rally length is 48% points ending within 1-3 shots, and he has won points in rallies of 7+ shots, indicating his ability to win in longer rallies. His net approach is 67th, and he has won points in long rallies, showing his versatility on the net. His groundstrokes are mostly forehands, with a high percentage of backhands, indicating he is a reliable baseline player. His ranking among the 213 hard-surface players is aces 40th, double faults 27th, first-serve points won 8th, second-serve points won 23rd, break points saved 27th, return points won 98th, unforced errors 36th, winner-to-error ratio 22nd, and points ending within 3 shots 1st. His long rallies (7+ shots) are 100th, and he has won points in long rallies, showing his ability to win in longer rallies. His net points won are 36th, and he has won points in long rallies, indicating his ability to win in longer rallies."
+base model + long prompt,Mohamed Safwat | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"Mohamed Safwat is a versatile player who excels in both baseline and net play. His serve placement is impressive, with deuce court wide and body placement, but his return points are notably low. Safwat's point construction is strong, with winners per 100 points at 16.2, but his unforced errors are higher at 26.4. His rally length is also impressive, ending within 1-3 shots 58% of the time, but his long rallies are only 45th in terms of points won. Safwat's net play is strong, with net points per 100 points at 10.3, but his net points won are at 60.6%. His groundstrokes are mostly forehands, with a few backhands. His ranking among the 139 clay-surface players in this dataset is aces 79th, double faults 10th, first-serve points won 59th, second-serve points won 38th, break points saved 1st, return points won 96th, and winners 53rd. His unforced errors are at 99th, winner-to-error ratio at 9th, and points ending within 3 shots at 77th. His long rallies are at 45th, and his net approaches are at 48th."
+base model + long prompt,Nicolas Almagro | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**Primary Archetype:** All-court player
+**Secondary Archetype:** Serve-plus-one attacker
+
+**Profile Summary:** Nicolas Almagro is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, and he has a high winner-to-error ratio, indicating a balanced approach to the game. His net play is predominantly forehands, with a strong second-serve, suggesting he is a reliable net player. His return points are high, and he has a good unforced error rate, which is a positive sign for his defensive capabilities. His long rallies and points won in long rallies are also strong indicators of his game. However, his net approach and return points are not as dominant as his serve, which could be a concern for his overall game.
+
+**Strengths:** 
+- High winner-to-error ratio
+- Balanced serve placement
+- Strong net play
+- Good return points
+- Good unforced error rate
+
+**Weaknesses:** 
+- Short-to-medium rallies
+- High return points
+- High unforced errors
+
+**Game Plan for the Opponent:**
+- Focus on Nicolas Almagro's serve and return points, as they are crucial for his success.
+- Use his net approach to his advantage, especially in long rallies.
+- Keep an eye on his return points, as they are a key factor in his success.
+- Use his unforced errors to his advantage, as they can be a game-changer in certain situations.
+- Keep a close eye on his net play, as it is a critical aspect of his game.
+- Use his long rallies to his advantage, as they can be a game-changer in certain situations.
+- Keep an eye on his points ending within 3 shots, as this is a key indicator of his game."
+base model + long prompt,Nicolas Almagro | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**Primary Archetype:** All-court player
+**Secondary Archetype:** Serve-plus-one attacker
+
+**Profile Summary:** Nicolas Almagro is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 10.8% of serve points, indicating a high success rate in returning the ball. He also has a high winner-to-error ratio, suggesting he is a reliable returner. His net play is mostly forehands and backhands, with a focus on hitting down the line. His groundstrokes are mostly inside-out or inside-in, which is a strategic play that can help him win points. His return points are second-serve points won 47.8%, indicating he is a reliable returner. His unforced errors are 18.3%, which is a good balance between errors and wins. His winner-to-error ratio is 1.03, which is a good balance between winning points and losing points. His points ending within 3 shots are 47th, which is a good indication of his ability to win points quickly. His long rallies (7+ shots) are 61st, which is a good indication of his ability to win points in longer rallies. His points won in long rallies are 25th, which is a good indication of his ability to win points in longer rallies. His net points won are 99th, which is a good indication of his ability to win points. His net points won are 99th, which is a good indication of his ability to win points."
+base model + long prompt,Pedro Martinez | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Pedro Martinez is a versatile all-court player with a strong serve, but his consistency and consistency in points are his greatest strength. He consistently wins points in all aspects of the game, including return points, unforced errors, and winner-to-error ratio. His ability to consistently win points in rallies of 7+ shots is a testament to his consistency and his ability to capitalize on opportunities. His long rallies and net approaches are also a significant factor in his success, as he is able to maintain a high winner-to-error ratio and win points in those rallies. However, his consistency in points is his primary strength, and he is able to consistently win points in all aspects of the game."
+base model + long prompt,Pedro Martinez | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Pedro Martinez is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 2.5% of serve points, and he has a high winner-to-error ratio of 0.97. Martinez's return points are 35.7%, and he has won points in rallies of 7+ shots 51.4% of the time. His net points per 100 points are 17.8, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. Martinez's net points won are 44th, and he has won points in net approaches 44th. His long rallies (7+ shots) are 92nd, and he has won points in net approaches 44th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has won points in long rallies 77th. His groundstrokes are mostly forehands, and he has a high winner-to-error ratio of 59th. His net points won are 44th, and he has"
+base model + long prompt,Peter Gojowczyk | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Peter Gojowczyk is a versatile all-court player with a strong serve and a knack for winning points. His serve placement is deuce court wide, with a high success rate on first serves and a low error rate. He consistently wins points in rallies of 7+ shots, showcasing his ability to break down opponents' serve play. Gojowczyk's return points are second to none, and he has a high winner-to-error ratio, indicating his ability to consistently win points despite his return play. His net approach is strong, with a high success rate on break points and a low error rate. His groundstrokes are mostly forehands, with a high success rate on inside-out or inside-in forehands. His net points per 100 points are high, and he has a high winner-to-error ratio, suggesting he is a reliable net player. His long rallies (7+ shots) are second to none, and he has a high points ending within 3 shots success rate. His net points won are second to none, and he has a high winner-to-error ratio, indicating his ability to consistently win points despite his return play. His return points are second to none, and he has a high winner-to-error ratio, suggesting his ability to consistently win points despite his return play. His net approach is strong, with a high success rate on break points and a low error rate. His groundstrokes are mostly forehands, with a high success rate on inside-out or inside-in forehands. His net points per 100 points are high, and he has a high winner-to-error ratio, suggesting he is a reliable net player. His long rallies (7+ shots) are second to none, and he has a high points ending within 3 shots success rate. His net points won are second to none, and he has a high winner-to-error ratio, indicating his ability to consistently win points despite his return play. His return points are second to none, and he has a high winner-to-error ratio, suggesting his ability to consistently win points despite his return play. His net approach is strong, with a high success rate on break points and a low error rate. His groundstrokes are mostly forehands, with a high success rate on inside-out or inside-in forehands. His net points per 100 points are high, and he has a high winner-to-error ratio, suggesting he is a reliable net player. His long rallies (7+ shots) are second to none, and he has a high points ending within 3 shots success rate. His net points won are second to none, and he has a high winner-to-error ratio, indicating his ability to consistently win points despite his return play. His return points are second to none, and he has a high winner-to-error ratio, suggesting"
+base model + long prompt,Rafael Jodar | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Rafael Jodar is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 4.5% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. His return points are 41.0%, and he has won many points in return games, suggesting a solid baseline game. His point construction is 20.7 winners per 100 points, which is quite high, and he has won points in rallies of 7+ shots, indicating a strong ability to win in longer matches. His rally length is 59% of points ending within 1-3 shots, and he has won points in rallies of 7+ shots, showing a consistent ability to win in longer matches. His groundstrokes are mostly forehands, with a high percentage of backhands, indicating a balanced game with a strong serve. His ranking among the 139 clay-surface players in this dataset is aces 47th, double faults 9th, first-serve points won 72nd, second-serve points won 71st, break points saved 97th, return points won 90th, and unforced errors 58th. His winner-to-error ratio is 87th, and he has won points in long rallies (7+ shots) and net approaches, showing a strong ability to win in longer matches."
+base model + long prompt,Roberto Carballes Baena | Clay,True,False,False,0.7692307692307693,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Roberto Carballes Baena is a versatile all-court player with a strong serve and a knack for winning points. His consistent return play and high winner-to-error ratio indicate a reliable baseline player. However, his ability to win points quickly behind the serve and his comfortable ability to absorb the pace in longer rallies suggest a versatile player who can adapt to different playing styles.
+
+**STRENGTHS:**
+
+- **Serve:** Carballes Baena has a high winner-to-error ratio, indicating a reliable baseline player. His consistent return play and ability to win points quickly behind the serve suggest a versatile player who can adapt to different playing styles.
+- **Return Points:** Carballes Baena has won many return points, which is a key factor in his success on clay courts. His ability to win points quickly behind the serve and his consistent return play suggest a reliable baseline player.
+- **Point Construction:** Carballes Baena has won points per 100 points, which is a strong indicator of his consistency and ability to win points quickly.
+
+**WEAKNESSES:**
+
+- **Error Rate:** While Carballes Baena has a high winner-to-error ratio, his error rate is relatively low, indicating a reliable baseline player. However, his ability to win points quickly behind the serve and his consistent return play suggest a versatile player who can adapt to different playing styles.
+- **Rally Length:** Carballes Baena has won points within 3 shots, which is a strong indicator of his consistency and ability to win points quickly. However, his ability to win points quickly behind the serve and his consistent return play suggest a versatile player who can adapt to different playing styles.
+- **Net Play:** Carballes Baena has a high net points per 100 points, which is a strong indicator of his consistency and ability to win points quickly. However, his ability to win points quickly behind the serve and his consistent return play suggest a versatile player who can adapt to different playing styles.
+
+**GAME PLAN FOR THE OPPONENT:**
+
+1. **Serve:** Focus on building a consistent return play and winning points quickly behind the serve.
+2. **Rally Length:** Focus on building a consistent rally length and winning points within 3 shots.
+3. **Net Play:** Focus on building a consistent net play and winning points quickly behind the serve.
+4. **Ground Strokes:** Focus on building a consistent ground stroke and winning points quickly behind the serve.
+5. **Rally Length:** Focus on building a consistent rally length and winning points within 3 shots.
+6. **Net Play:** Focus on building a consistent net play and winning points quickly behind the serve.
+7. **Ground Strokes:** Focus on building a consistent ground stroke and winning points quickly behind the serve.
+8. **Rally Length:** Focus on building a consistent"
+base model + long prompt,Roberto Carballes Baena | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Roberto Carballes Baena is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 3.5% of serve points, and he has a high winner-to-error ratio of 0.84. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 47th. His return points are 33.2%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 38th. His groundstrokes are mostly forehands, and he has won points in long rallies, with a winner-to-error ratio of 38th. His net approach is 32nd, and he has won points in net approaches, with a net points won ratio of 47th. His net points won are 47th, and he has won points in net approaches, with a winner-to-error ratio of 38th. His groundstrokes are mostly forehands, and he has won points in long rallies, with a winner-to-error ratio of 38th. His net approach is 32nd, and he has won points in net approaches, with a net points won ratio of 47th. His net points won are 47th, and he has won points in net approaches, with a winner-to-error ratio of 38th. His groundstrokes are mostly forehands, and he has won points in long rallies, with a winner-to-error ratio of 38th. His net approach is 32nd, and he has won points in net approaches, with a net points won ratio of 47th. His net points won are 47th, and he has won points in net approaches, with a winner-to-error ratio of 38th. His groundstrokes are mostly forehands, and he has won points in long rallies, with a winner-to-error ratio of 38th. His net approach is 32nd, and he has won points in net approaches, with a net points won ratio of 47th. His net points won are 47th, and he has won points in net approaches, with a winner-to-error ratio of 38th. His groundstrokes are mostly forehands, and he has won points in long rallies, with a winner-to-error ratio of 38th. His net approach is 32nd, and he has won points in net approaches, with a net points won ratio of 47th. His net points won are 47th, and he has won points in net approaches, with a winner-to-error ratio of 38th. His groundstrokes are mostly forehands"
+base model + long prompt,Robin Haase | Clay,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Robin Haase is a versatile all-court player with a strong serve and a knack for winning points. His consistent return rate and high winner-to-error ratio indicate a balanced game, which is crucial for success on clay courts. Haase's ability to win points quickly behind the serve and first strike is a significant asset, especially in longer rallies. His long rallies and ability to win points within 3 shots are also valuable. However, his reliance on retrieving and long rallies might limit his effectiveness in short, high-scoring matches. His consistent return points and high winner-to-error ratio suggest a balanced game, which is important for his success on clay courts. Haase's ability to win points quickly behind the serve and first strike is a significant asset, especially in longer rallies. His long rallies and ability to win points within 3 shots are also valuable. However, his reliance on retrieving and long rallies might limit his effectiveness in short, high-scoring matches. His consistent return points and high winner-to-error ratio suggest a balanced game, which is important for his success on clay courts."
+base model + long prompt,Robin Haase | Hard,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Robin Haase is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 9.2% of serve points, indicating a high success rate in returning the ball. Haase's return points are 34.0%, which suggests he is a reliable returner. His net points per 100 points are 12.6, indicating a balanced approach to the net, with a focus on both forehands and backhands. Haase's groundstrokes are mostly forehands, with a slight preference for backhands. His return points are 46th, indicating he is a reliable returner. His unforced errors are 26th, suggesting he is a reliable attacker. Haase's winner-to-error ratio is 57th, indicating he is a reliable winner. His points ending within 3 shots are 32nd, suggesting he is a reliable winner. His long rallies (7+ shots) are 66th, indicating he is a reliable long-rally winner. His points won in long rallies are 25th, indicating he is a reliable long-rally winner. His net points won are 70th, indicating he is a reliable net winner. His net points per 100 points are 12.6, indicating a balanced approach to the net, with a focus on both forehands and backhands. Haase's groundstrokes are mostly forehands, with a slight preference for backhands. His return points are 46th, indicating he is a reliable returner. His unforced errors are 26th, suggesting he is a reliable attacker. Haase's winner-to-error ratio is 57th, indicating he is a reliable winner. His points ending within 3 shots are 32nd, suggesting he is a reliable winner. His long rallies (7+ shots) are 66th, indicating he is a reliable long-rally winner. His points won in long rallies are 25th, indicating he is a reliable long-rally winner. His net points won are 70th, indicating he is a reliable net winner. His net points per 100 points are 12.6, indicating a balanced approach to the net, with a focus on both forehands and backhands. Haase's groundstrokes are mostly forehands, with a slight preference for backhands. His return points are 46th, indicating he is a reliable returner. His unforced errors are 26th, suggesting he is a reliable attacker. Haase's winner-to-error ratio is 57th, indicating he is a reliable winner. His points ending within 3 shots are 32nd, suggesting he is a reliable"
+base model + long prompt,Sebastian Ofner | Clay,False,False,False,1.0,0.0,,,0.0,0.0,"Sebastian Ofner is a versatile player who excels in both baseline and net play. His serve placement is deuce court wide, with a strong focus on the first serve and first-serve points. He has a high winner-to-error ratio of 0.75, indicating a high level of consistency in his game. His return points are second only to his first serve points, suggesting a balanced approach to the game. 
+
+In terms of rally length, Sebastian's rallies are mostly within 1-3 shots, which is a good balance for his game. His net play is strong, with a high percentage of forehands and backhands, and he has a high winner-to-error ratio. His groundstrokes are mostly inside-out or inside-in, which is a good mix of attacking and defensive strategies.
+
+Overall, Sebastian's game is balanced, with a strong focus on baseline play and a willingness to take risks. His consistency in points and error rates suggest he is a reliable player who can handle both offensive and defensive situations."
+base model + long prompt,Stefanos Tsitsipas | Clay,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Stefanos Tsitsipas is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 6.5% of serve points, and he has a high winner-to-error ratio of 0.98. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 81%. His return points are 38.0%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 79%. His groundstrokes are mostly forehands, with a high return rate of 36% and a high net points won of 72.2%. His net approach is aces on 76th, double faults 57th, first-serve points won 88th, second-serve points won 80th, break points saved 61st, and unforced errors 27th. His long rallies (7+ shots) have a winner-to-error ratio of 51%, and he has won points in long rallies with a net points won ratio of 81%. His net points won are 81st, and he has won points in points ending within 3 shots with a winner-to-error ratio of 79%. His groundstrokes are mostly forehands, with a high return rate of 36% and a high net points won of 72.2%."
+base model + long prompt,Stefanos Tsitsipas | Grass,False,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Stefanos Tsitsipas is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 10.9% of serve points, and he has a high winner-to-error ratio of 1.44. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 56th. His return points are second-serve points won at 53.8%, and he has won points in long rallies at 38th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net approach is 84th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net points won are 56th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net points won are 56th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net points won are 56th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net points won are 56th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net points won are 56th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net points won are 56th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of 13%. His net points won are 56th, and he has won points in net approaches at 56th. His groundstrokes are mostly forehands, with a high return rate of 35% and a high unforced error rate of"
+base model + long prompt,Stefanos Tsitsipas | Hard,True,True,True,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Stefanos Tsitsipas is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 9.5% of serve points, and he has a high winner-to-error ratio of 1.12. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 81%. His return points are 32.3%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 84%. His groundstrokes are mostly forehands, with a high break points saved ratio of 65.2%.
+
+**STRENGTHS:** His serve is aces on 9.5% of serve points, and he has a high winner-to-error ratio of 1.12. He consistently wins points in rallies of 7+ shots, with a net points won ratio of 81%. His return points are 32.3%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 84%. His groundstrokes are mostly forehands, with a high break points saved ratio of 65.2%.
+
+**WEAKNESSES:** His return points are 32.3%, and he has won points in points ending within 3 shots, with a winner-to-error ratio of 84%. His groundstrokes are mostly forehands, with a high break points saved ratio of 65.2%.
+
+**GAME PLAN FOR THE OPPONENT:** To prepare for Stefanos Tsitsipas, the coach should focus on his serve, return, and groundstrokes. The coach should also emphasize the importance of winning points in rallies of 7+ shots, as this is a key factor in his success. The coach should also emphasize the importance of winning points in points ending within 3 shots, as this is a crucial factor in his success. The coach should also emphasize the importance of winning points in points ending within 3 shots, as this is a crucial factor in his success. The coach should also emphasize the importance of winning points in points ending within 3 shots, as this is a crucial factor in his success. The coach should also emphasize the importance of winning points in points ending within 3 shots, as this is a crucial factor in his success. The coach should also emphasize the importance of winning points in points ending within 3 shots, as this is a crucial factor in his success. The coach should also emphasize the importance of winning points in points ending within 3 shots, as this is a crucial factor in his success. The coach should also emphasize the importance of winning points in points ending within 3 shots, as this is a crucial factor in his success. The coach should also emphasize"
+base model + long prompt,Tommy Haas | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Tommy Haas is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 5.8% of serve points, indicating a high success rate but with a low error rate. He has a comfortable ability to absorb the pace of long rallies, making him a reliable net player. Haas also has a strong return game, winning points per 100 serve points, which is a testament to his ability to capitalize on opportunities. His point construction is impressive, with winners per 100 points at 13.3, indicating a high success rate but with a low error rate. Haas is known for his rally length, winning points within 1-3 shots, which is a significant advantage in the hard surface game. His net play is efficient, with net points per 100 points at 10.8, and he has a high net points won rate, with 60.0% of his points coming from net plays. Haas is a defensive specialist, relying on retrieving to limit his opponent's serve and first strike. His long rallies and points won in long rallies are impressive, with a 15th place ranking among all-court players on this dataset. His net approach is strong, with a 46th place ranking, and he has a high winner-to-error ratio, indicating a high success rate but with a low error rate. His return points are aces on 5.8% of serve points, which is a testament to his ability to capitalize on opportunities. Haas is a versatile player who can adapt to different surfaces and serve styles, making him a valuable asset on the hard surface."
+base model + long prompt,Tommy Robredo | Hard,False,False,False,1.0,0.0,,,0.0,0.0,"**PRIMARY ARCHETYPE:** All-court player
+
+**SECONDARY ARCHETYPE:** Serve-plus-one attacker
+
+**PROFILE SUMMARY:** Tommy Robredo is a versatile all-court player with a strong serve and a knack for winning points. His serve is aces on 5.4% of serve points, and he has a high winner-to-error ratio of 0.83. Robredo's return points are 34.1%, and he has won points in 49.8% of his rallies. His net points per 100 points are 8.4, and he has won points in 61% of his rallies. Robredo's groundstrokes are mostly forehands, and he has won points in 48% of his rallies. His net approach is a double fault of 84th, and he has won points in 3rd place. His long rallies (7+ shots) are 82nd, and he has won points in 61% of his rallies. His net points won are 98th, and he has won points in 10th place. His points ending within 3 shots are 10th, and he has won points in 1st place. His unforced errors are 37th, and he has won points in 3rd place. His winner-to-error ratio is 35th, and he has won points in 1st place. His points won in long rallies are 61st, and he has won points in 1st place. His groundstrokes are mostly backhands, and he has won points in 4th place. His net points won are 98th, and he has won points in 10th place. His groundstrokes are mostly backhands, and he has won points in 4th place. His net approach is a double fault of 84th, and he has won points in 3rd place. His long rallies (7+ shots) are 82nd, and he has won points in 61% of his rallies. His net points won are 98th, and he has won points in 10th place. His points ending within 3 shots are 10th, and he has won points in 1st place. His unforced errors are 37th, and he has won points in 3rd place. His winner-to-error ratio is 35th, and he has won points in 1st place. His points won in long rallies are 61st, and he has won points in 1st place. His groundstrokes are mostly backhands, and he has won points in 4th place. His net points won are 98th, and he has won points in 10th place. His groundstrokes are mostly backhands, and he"
+fine-tuned + short prompt,Alexander Bublik | Clay,True,False,True,1.0,1.0,1.0,0.5,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (13.9 net points per 100 points) and wins 65.3% of them. On serve the player goes to the T on 55% of deuce-court serves and wide on 38% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 65.3% of net points (top fifth on this surface).
+- Free points on serve: aces on 11.6% of serve points (top fifth on this surface).
+- Dominant first serve: wins 73.7% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 36.7% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 51.4% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 7.6% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Alexander Bublik | Grass,True,False,False,1.0,1.0,1.0,0.5,0.6666666666666666,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (14.8 net points per 100 points) and wins 66.9% of them. On serve the player goes to the T on 49% of deuce-court serves and wide on 38% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 66.9% of net points (top fifth on this surface).
+- Free points on serve: aces on 17.6% of serve points (top fifth on this surface).
+- Dominant first serve: wins 79.0% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 34.2% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 43.2% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 9.1% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Alexander Bublik | Hard,True,False,True,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (17.6 net points per 100 points) and wins 61.3% of them. On serve the player goes to the T on 51% of deuce-court serves and wide on 35% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 14.2% of serve points (top fifth on this surface).
+- Dominant first serve: wins 75.0% of first-serve points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 1.04 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 32.0% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 46.3% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 8.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Alexandr Dolgopolov | Clay,True,False,False,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (8.8 net points per 100 points) and wins 71.6% of them. On serve the player goes to the T on 17% of deuce-court serves and wide on 56% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 71.6% of net points (top fifth on this surface).
+- Free points on serve: aces on 6.9% of serve points (top fifth on this surface).
+- Dominant first serve: wins 71.2% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 34.9% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 45.7% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 2.1% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Alexandr Dolgopolov | Hard,True,True,True,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: aggressive baseliner
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Plays to dictate from the baseline with 17.1 winners and 20.4 unforced errors per 100 points, rarely coming forward (9.0 net points per 100 points). On serve the player goes to the T on 19% of deuce-court serves and wide on 58% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 72.1% of net points (top fifth on this surface).
+- Strong point-ending ability: 17.1 winners per 100 points (top fifth on this surface).
+- Free points on serve: aces on 8.4% of serve points (top fifth on this surface).
+WEAKNESSES:
+- Double-fault prone: double faults on 3.8% of serve points (bottom fifth on this surface).
+- Gives points away: 20.4 unforced errors per 100 points (bottom fifth on this surface).
+- Weak second serve: wins only 48.3% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an aggressive baseliner, vary pace and height to disrupt the rhythm and draw errors.
+- Be patient on return; pressure often produces double faults at key moments.
+- Pass early with topspin and keep the ball low to prevent clean volleys."
+fine-tuned + short prompt,Arthur Fils | Clay,True,False,False,1.0,0.8333333333333334,1.0,0.2,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 40.0% of return points while keeping unforced errors to 22.6 per 100 points. On serve the player goes to the T on 44% of deuce-court serves and wide on 64% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 40.0% of return points (top fifth on this surface).
+- Wins long exchanges: takes 55.5% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 22.6 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 4.9% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 23.0 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 52.1% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Arthur Fils | Grass,True,False,False,1.0,0.8333333333333334,1.0,0.0,0.0,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 30.5% of return points while keeping unforced errors to 19.9 per 100 points. On serve the player goes to the T on 36% of deuce-court serves and wide on 49% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 30.5% of return points (top fifth on this surface).
+- Wins long exchanges: takes 52.5% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 19.9 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 6.7% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 21.6 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 51.4% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Arthur Fils | Hard,True,False,False,1.0,1.0,1.0,0.0,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (8.4 net points per 100 points) and wins 68.4% of them. On serve the player goes to the T on 41% of deuce-court serves and wide on 52% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 68.4% of net points (top fifth on this surface).
+- Free points on serve: aces on 9.3% of serve points (top fifth on this surface).
+- Dominant first serve: wins 74.2% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 33.8% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 49.4% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.7% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Borna Coric | Clay,True,False,True,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (11.7 net points per 100 points) and wins 67.9% of them. On serve the player goes to the T on 53% of deuce-court serves and wide on 56% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 67.9% of net points (top fifth on this surface).
+- Free points on serve: aces on 5.4% of serve points (top fifth on this surface).
+- Dominant first serve: wins 72.5% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 36.1% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 51.3% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 2.5% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Borna Coric | Hard,True,False,False,1.0,0.8333333333333334,1.0,0.0,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 33.5% of return points while keeping unforced errors to 18.5 per 100 points. On serve the player goes to the T on 48% of deuce-court serves and wide on 48% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 33.5% of return points (top fifth on this surface).
+- Wins long exchanges: takes 50.8% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 18.5 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 7.6% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 15.1 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 50.1% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Daniel Evans | Clay,True,False,False,1.0,1.0,1.0,0.0,0.0,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (19.3 net points per 100 points) and wins 61.4% of them. On serve the player goes to the T on 54% of deuce-court serves and wide on 39% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 61.4% of net points (top fifth on this surface).
+- Free points on serve: aces on 5.6% of serve points (top fifth on this surface).
+- Dominant first serve: wins 69.9% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 38.6% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 48.0% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.2% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Daniel Evans | Hard,True,True,True,1.0,0.8333333333333334,1.0,0.6,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 37.4% of return points while keeping unforced errors to 13.6 per 100 points. On serve the player goes to the T on 44% of deuce-court serves and wide on 49% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 37.4% of return points (top fifth on this surface).
+- Wins long exchanges: takes 51.8% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 13.6 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 5.3% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 16.1 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 49.9% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Diego Schwartzman | Clay,True,False,False,1.0,1.0,1.0,0.0,0.0,0.0,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (9.5 net points per 100 points) and wins 66.5% of them. On serve the player goes to the T on 30% of deuce-court serves and wide on 37% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 1.3% of serve points (top fifth on this surface).
+- Dominant first serve: wins 60.6% of first-serve points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 0.68 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 40.5% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 51.3% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.7% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Diego Schwartzman | Hard,True,False,True,1.0,1.0,1.0,0.6666666666666666,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 36.4% of return points while keeping unforced errors to 18.1 per 100 points. On serve the player goes to the T on 29% of deuce-court serves and wide on 30% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 36.4% of return points (top fifth on this surface).
+- Wins long exchanges: takes 52.9% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 18.1 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 11.6 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 2.6% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 65.9% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Emil Ruusuvuori | Clay,True,True,True,1.0,1.0,1.0,0.6666666666666666,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: defensive specialist
+SECONDARY ARCHETYPE: counterpuncher
+PROFILE SUMMARY: Relies on retrieving and long exchanges: 14% of points reach 10+ shots with only 11.3 winners per 100 points. On serve the player goes to the T on 46% of deuce-court serves and wide on 47% of ad-court serves.
+STRENGTHS:
+- Serves safely: double faults on only 4.5% of serve points (top fifth on this surface).
+- Rarely gives points away: only 21.1 unforced errors per 100 points (top fifth on this surface).
+- Wins long exchanges: takes 54.4% of points in rallies of 7+ shots (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 11.3 winners per 100 points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 63.7% of first-serve points (bottom fifth on this surface).
+- Few free points on serve: aces on only 1.4% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a defensive specialist, be patient in constructing points and finish with controlled aggression.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Do not count on double faults; get the first serve back and win the rally."
+fine-tuned + short prompt,Emil Ruusuvuori | Grass,True,False,False,1.0,1.0,1.0,0.5,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 32.4% of return points while keeping unforced errors to 21.8 per 100 points. On serve the player goes to the T on 44% of deuce-court serves and wide on 48% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 32.4% of return points (top fifth on this surface).
+- Wins long exchanges: takes 54.9% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 21.8 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 15.7 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 5.7% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 72.2% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Emil Ruusuvuori | Hard,True,False,True,1.0,1.0,1.0,0.5,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 36.3% of return points while keeping unforced errors to 21.8 per 100 points. On serve the player goes to the T on 41% of deuce-court serves and wide on 44% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 36.3% of return points (top fifth on this surface).
+- Wins long exchanges: takes 53.4% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 21.8 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 13.7 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 4.4% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 68.6% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Ernests Gulbis | Hard,True,False,False,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (7.2 net points per 100 points) and wins 70.2% of them. On serve the player goes to the T on 37% of deuce-court serves and wide on 39% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 70.2% of net points (top fifth on this surface).
+- Free points on serve: aces on 13.5% of serve points (top fifth on this surface).
+- Dominant first serve: wins 79.4% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 35.3% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 51.4% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.9% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Federico Coria | Clay,True,True,True,1.0,1.0,1.0,0.8333333333333334,0.6666666666666666,0.6666666666666666,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 40.2% of return points while keeping unforced errors to 13.9 per 100 points. On serve the player goes to the T on 39% of deuce-court serves and wide on 57% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 40.2% of return points (top fifth on this surface).
+- Wins long exchanges: takes 45.6% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 13.9 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 10.3 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 3.0% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 61.9% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Filip Misolic | Clay,True,False,True,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.6666666666666666,"PRIMARY ARCHETYPE: defensive specialist
+SECONDARY ARCHETYPE: counterpuncher
+PROFILE SUMMARY: Relies on retrieving and long exchanges: 10% of points reach 10+ shots with only 15.9 winners per 100 points. On serve the player goes to the T on 54% of deuce-court serves and wide on 50% of ad-court serves.
+STRENGTHS:
+- Serves safely: double faults on only 2.5% of serve points (top fifth on this surface).
+- Rarely gives points away: only 14.9 unforced errors per 100 points (top fifth on this surface).
+- Wins long exchanges: takes 57.8% of points in rallies of 7+ shots (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 15.9 winners per 100 points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 73.2% of first-serve points (bottom fifth on this surface).
+- Few free points on serve: aces on only 3.7% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a defensive specialist, be patient in constructing points and finish with controlled aggression.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Do not count on double faults; get the first serve back and win the rally."
+fine-tuned + short prompt,Flavio Cobolli | Clay,True,True,True,1.0,1.0,1.0,0.3333333333333333,0.0,0.6666666666666666,"PRIMARY ARCHETYPE: aggressive baseliner
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Plays to dictate from the baseline with 15.1 winners and 22.0 unforced errors per 100 points, rarely coming forward (7.9 net points per 100 points). On serve the player goes to the T on 48% of deuce-court serves and wide on 67% of ad-court serves.
+STRENGTHS:
+- Strong point-ending ability: 15.1 winners per 100 points (top fifth on this surface).
+- Free points on serve: aces on 4.3% of serve points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 0.68 (top fifth on this surface).
+WEAKNESSES:
+- Double-fault prone: double faults on 4.6% of serve points (bottom fifth on this surface).
+- Gives points away: 22.0 unforced errors per 100 points (bottom fifth on this surface).
+- Weak second serve: wins only 46.9% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an aggressive baseliner, vary pace and height to disrupt the rhythm and draw errors.
+- Be patient on return; pressure often produces double faults at key moments.
+- Pass early with topspin and keep the ball low to prevent clean volleys."
+fine-tuned + short prompt,Flavio Cobolli | Hard,True,False,True,1.0,1.0,1.0,0.5,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 29.8% of return points while keeping unforced errors to 21.2 per 100 points. On serve the player goes to the T on 40% of deuce-court serves and wide on 59% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 29.8% of return points (top fifth on this surface).
+- Wins long exchanges: takes 49.8% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 21.2 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 13.8 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 4.8% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 67.1% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Gregoire Barrere | Hard,True,True,True,1.0,1.0,1.0,0.5,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: defensive specialist
+SECONDARY ARCHETYPE: counterpuncher
+PROFILE SUMMARY: Relies on retrieving and long exchanges: 7% of points reach 10+ shots with only 12.6 winners per 100 points. On serve the player goes to the T on 39% of deuce-court serves and wide on 42% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 28.1% of return points (top fifth on this surface).
+- Wins long exchanges: takes 45.0% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 19.0 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 12.6 winners per 100 points (bottom fifth on this surface).
+- Inefficient offense: winner-to-error ratio of only 0.66 (bottom fifth on this surface).
+- Few free points on serve: aces on only 4.1% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a defensive specialist, be patient in constructing points and finish with controlled aggression.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Grigor Dimitrov | Clay,True,False,True,1.0,1.0,1.0,0.5,1.0,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (10.0 net points per 100 points) and wins 76.7% of them. On serve the player goes to the T on 51% of deuce-court serves and wide on 55% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 76.7% of net points (top fifth on this surface).
+- Free points on serve: aces on 5.4% of serve points (top fifth on this surface).
+- Dominant first serve: wins 72.6% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 36.4% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 48.0% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 4.4% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Grigor Dimitrov | Grass,True,False,False,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (10.1 net points per 100 points) and wins 71.7% of them. On serve the player goes to the T on 39% of deuce-court serves and wide on 42% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 71.7% of net points (top fifth on this surface).
+- Free points on serve: aces on 14.0% of serve points (top fifth on this surface).
+- Dominant first serve: wins 78.5% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 36.7% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 55.1% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 4.7% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Grigor Dimitrov | Hard,True,False,False,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: aggressive baseliner
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Plays to dictate from the baseline with 17.8 winners and 17.8 unforced errors per 100 points, rarely coming forward (10.6 net points per 100 points). On serve the player goes to the T on 42% of deuce-court serves and wide on 48% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 72.6% of net points (top fifth on this surface).
+- Strong point-ending ability: 17.8 winners per 100 points (top fifth on this surface).
+- Free points on serve: aces on 8.5% of serve points (top fifth on this surface).
+WEAKNESSES:
+- Double-fault prone: double faults on 4.4% of serve points (bottom fifth on this surface).
+- Gives points away: 17.8 unforced errors per 100 points (bottom fifth on this surface).
+- Weak second serve: wins only 50.2% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an aggressive baseliner, vary pace and height to disrupt the rhythm and draw errors.
+- Be patient on return; pressure often produces double faults at key moments.
+- Pass early with topspin and keep the ball low to prevent clean volleys."
+fine-tuned + short prompt,Jack Draper | Clay,True,False,True,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (11.1 net points per 100 points) and wins 66.8% of them. On serve the player goes to the T on 58% of deuce-court serves and wide on 58% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 66.8% of net points (top fifth on this surface).
+- Free points on serve: aces on 6.3% of serve points (top fifth on this surface).
+- Dominant first serve: wins 72.1% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 36.5% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 52.6% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.8% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jack Draper | Hard,True,False,False,1.0,1.0,1.0,0.0,0.0,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (9.8 net points per 100 points) and wins 67.6% of them. On serve the player goes to the T on 54% of deuce-court serves and wide on 62% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 67.6% of net points (top fifth on this surface).
+- Free points on serve: aces on 10.0% of serve points (top fifth on this surface).
+- Dominant first serve: wins 71.7% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 37.8% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 50.6% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 4.2% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jaume Munar | Clay,True,True,True,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 38.8% of return points while keeping unforced errors to 14.7 per 100 points. On serve the player goes to the T on 27% of deuce-court serves and wide on 58% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 38.8% of return points (top fifth on this surface).
+- Wins long exchanges: takes 44.5% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 14.7 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 11.7 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 3.3% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 65.9% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Jaume Munar | Hard,True,True,True,1.0,0.8333333333333334,1.0,0.2,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 36.2% of return points while keeping unforced errors to 14.1 per 100 points. On serve the player goes to the T on 31% of deuce-court serves and wide on 30% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 36.2% of return points (top fifth on this surface).
+- Wins long exchanges: takes 46.0% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 14.1 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 6.0% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 15.1 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 48.3% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Jeremy Chardy | Hard,True,False,False,1.0,1.0,1.0,0.5,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (10.9 net points per 100 points) and wins 67.7% of them. On serve the player goes to the T on 42% of deuce-court serves and wide on 47% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 67.7% of net points (top fifth on this surface).
+- Free points on serve: aces on 10.4% of serve points (top fifth on this surface).
+- Dominant first serve: wins 72.0% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 30.2% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 43.9% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 6.5% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jesper De Jong | Clay,True,True,True,1.0,1.0,1.0,0.5,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (15.7 net points per 100 points) and wins 74.9% of them. On serve the player goes to the T on 44% of deuce-court serves and wide on 35% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 74.9% of net points (top fifth on this surface).
+- Free points on serve: aces on 7.6% of serve points (top fifth on this surface).
+- Dominant first serve: wins 69.8% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 41.0% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 44.2% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jesper De Jong | Hard,True,True,True,1.0,1.0,1.0,0.0,0.0,1.0,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (16.1 net points per 100 points) and wins 73.7% of them. On serve the player goes to the T on 38% of deuce-court serves and wide on 35% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 10.5% of serve points (top fifth on this surface).
+- Dominant first serve: wins 73.5% of first-serve points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 1.04 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 34.4% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 47.9% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.4% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jiri Lehecka | Clay,True,False,False,1.0,0.8333333333333334,1.0,0.0,0.0,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 34.1% of return points while keeping unforced errors to 23.3 per 100 points. On serve the player goes to the T on 42% of deuce-court serves and wide on 62% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 34.1% of return points (top fifth on this surface).
+- Wins long exchanges: takes 39.4% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 23.3 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 5.2% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 19.6 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 43.3% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Jiri Lehecka | Grass,True,False,False,1.0,0.8333333333333334,1.0,0.0,0.0,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 30.2% of return points while keeping unforced errors to 18.1 per 100 points. On serve the player goes to the T on 31% of deuce-court serves and wide on 42% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 30.2% of return points (top fifth on this surface).
+- Wins long exchanges: takes 50.7% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 18.1 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 12.3% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 23.2 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 46.4% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Jiri Lehecka | Hard,True,True,True,1.0,1.0,1.0,0.0,0.0,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (13.2 net points per 100 points) and wins 66.9% of them. On serve the player goes to the T on 36% of deuce-court serves and wide on 50% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 66.9% of net points (top fifth on this surface).
+- Free points on serve: aces on 9.4% of serve points (top fifth on this surface).
+- Dominant first serve: wins 72.5% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 32.2% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 46.2% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jo Wilfried Tsonga | Clay,True,True,True,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: serve-plus-one attacker
+SECONDARY ARCHETYPE: aggressive baseliner
+PROFILE SUMMARY: Looks to end points early behind the serve: 59% of points end within 3 shots and the player wins 68.2% of first-serve points. On serve the player goes to the T on 41% of deuce-court serves and wide on 56% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 6.0% of serve points (top fifth on this surface).
+- Strong point-ending ability: 15.2 winners per 100 points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 0.67 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 33.1% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 44.6% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.1% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a serve-plus-one attacker, prioritize getting the return in play deep and neutralizing the first ball after the serve.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jo Wilfried Tsonga | Grass,True,False,False,1.0,1.0,1.0,0.16666666666666666,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: serve-plus-one attacker
+SECONDARY ARCHETYPE: aggressive baseliner
+PROFILE SUMMARY: Looks to end points early behind the serve: 65% of points end within 3 shots and the player wins 74.1% of first-serve points. On serve the player goes to the T on 38% of deuce-court serves and wide on 51% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 13.0% of serve points (top fifth on this surface).
+- Strong point-ending ability: 18.5 winners per 100 points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 1.04 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 28.1% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 44.6% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 2.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a serve-plus-one attacker, prioritize getting the return in play deep and neutralizing the first ball after the serve.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Jo Wilfried Tsonga | Hard,True,False,False,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: serve-plus-one attacker
+SECONDARY ARCHETYPE: aggressive baseliner
+PROFILE SUMMARY: Looks to end points early behind the serve: 61% of points end within 3 shots and the player wins 78.3% of first-serve points. On serve the player goes to the T on 43% of deuce-court serves and wide on 47% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 12.6% of serve points (top fifth on this surface).
+- Strong point-ending ability: 19.6 winners per 100 points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 1.02 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 34.8% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 50.2% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a serve-plus-one attacker, prioritize getting the return in play deep and neutralizing the first ball after the serve.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Joao Sousa | Clay,True,False,False,1.0,0.8333333333333334,1.0,0.4,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 33.9% of return points while keeping unforced errors to 18.6 per 100 points. On serve the player goes to the T on 25% of deuce-court serves and wide on 38% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 33.9% of return points (top fifth on this surface).
+- Wins long exchanges: takes 46.8% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 18.6 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 2.9% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 10.5 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 40.9% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Joao Sousa | Hard,True,True,True,1.0,1.0,1.0,0.3333333333333333,1.0,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 36.2% of return points while keeping unforced errors to 16.1 per 100 points. On serve the player goes to the T on 26% of deuce-court serves and wide on 44% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 36.2% of return points (top fifth on this surface).
+- Wins long exchanges: takes 49.2% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 16.1 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 5.9% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 12.7 winners per 100 points (bottom fifth on this surface).
+- Fragile under pressure: saves only 58.7% of break points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Juan Carlos Prado Angelo | Clay,True,False,True,1.0,1.0,1.0,0.6666666666666666,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 42.3% of return points while keeping unforced errors to 25.8 per 100 points. On serve the player goes to the T on 78% of deuce-court serves and wide on 71% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 42.3% of return points (top fifth on this surface).
+- Wins long exchanges: takes 50.3% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 25.8 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 12.3 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 2.3% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 61.9% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Karen Khachanov | Clay,True,True,True,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: defensive specialist
+SECONDARY ARCHETYPE: counterpuncher
+PROFILE SUMMARY: Relies on retrieving and long exchanges: 12% of points reach 10+ shots with only 16.1 winners per 100 points. On serve the player goes to the T on 38% of deuce-court serves and wide on 52% of ad-court serves.
+STRENGTHS:
+- Serves safely: double faults on only 2.1% of serve points (top fifth on this surface).
+- Rarely gives points away: only 18.1 unforced errors per 100 points (top fifth on this surface).
+- Wins long exchanges: takes 49.0% of points in rallies of 7+ shots (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 16.1 winners per 100 points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 64.3% of first-serve points (bottom fifth on this surface).
+- Few free points on serve: aces on only 4.1% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a defensive specialist, be patient in constructing points and finish with controlled aggression.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Do not count on double faults; get the first serve back and win the rally."
+fine-tuned + short prompt,Karen Khachanov | Hard,True,False,False,1.0,1.0,1.0,0.0,0.0,0.0,"PRIMARY ARCHETYPE: serve-plus-one attacker
+SECONDARY ARCHETYPE: aggressive baseliner
+PROFILE SUMMARY: Looks to end points early behind the serve: 58% of points end within 3 shots and the player wins 72.8% of first-serve points. On serve the player goes to the T on 38% of deuce-court serves and wide on 43% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 10.1% of serve points (top fifth on this surface).
+- Strong point-ending ability: 17.5 winners per 100 points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 1.04 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 35.8% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 50.3% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 2.8% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a serve-plus-one attacker, prioritize getting the return in play deep and neutralizing the first ball after the serve.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Lukas Rosol | Hard,True,False,False,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 29.8% of return points while keeping unforced errors to 23.5 per 100 points. On serve the player goes to the T on 20% of deuce-court serves and wide on 30% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 29.8% of return points (top fifth on this surface).
+- Wins long exchanges: takes 47.6% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 23.5 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 15.1 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 4.8% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 60.6% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Marc Polmans | Hard,True,True,True,1.0,0.8333333333333334,1.0,0.4,0.6666666666666666,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 40.2% of return points while keeping unforced errors to 17.5 per 100 points. On serve the player goes to the T on 33% of deuce-court serves and wide on 50% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 40.2% of return points (top fifth on this surface).
+- Wins long exchanges: takes 44.5% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 17.5 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 6.8% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 13.6 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 47.3% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Mohamed Safwat | Clay,True,False,False,1.0,1.0,1.0,0.0,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (10.3 net points per 100 points) and wins 60.6% of them. On serve the player goes to the T on 52% of deuce-court serves and wide on 43% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 60.6% of net points (top fifth on this surface).
+- Free points on serve: aces on 6.9% of serve points (top fifth on this surface).
+- Dominant first serve: wins 69.8% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 42.6% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 48.9% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 1.9% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Nicolas Almagro | Clay,True,False,False,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.0,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (8.5 net points per 100 points) and wins 70.7% of them. On serve the player goes to the T on 48% of deuce-court serves and wide on 45% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 70.7% of net points (top fifth on this surface).
+- Free points on serve: aces on 7.3% of serve points (top fifth on this surface).
+- Dominant first serve: wins 73.0% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 36.0% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 48.1% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 2.6% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Nicolas Almagro | Hard,True,False,False,1.0,1.0,1.0,0.5,0.6666666666666666,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (5.5 net points per 100 points) and wins 78.2% of them. On serve the player goes to the T on 57% of deuce-court serves and wide on 50% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 78.2% of net points (top fifth on this surface).
+- Free points on serve: aces on 10.8% of serve points (top fifth on this surface).
+- Dominant first serve: wins 75.4% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 28.3% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 45.5% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 2.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Pedro Martinez | Clay,True,True,True,1.0,1.0,1.0,0.5,0.6666666666666666,0.6666666666666666,"PRIMARY ARCHETYPE: defensive specialist
+SECONDARY ARCHETYPE: counterpuncher
+PROFILE SUMMARY: Relies on retrieving and long exchanges: 9% of points reach 10+ shots with only 13.1 winners per 100 points. On serve the player goes to the T on 45% of deuce-court serves and wide on 56% of ad-court serves.
+STRENGTHS:
+- Serves safely: double faults on only 4.9% of serve points (top fifth on this surface).
+- Rarely gives points away: only 15.7 unforced errors per 100 points (top fifth on this surface).
+- Wins long exchanges: takes 50.2% of points in rallies of 7+ shots (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 13.1 winners per 100 points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 64.5% of first-serve points (bottom fifth on this surface).
+- Few free points on serve: aces on only 1.5% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a defensive specialist, be patient in constructing points and finish with controlled aggression.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Do not count on double faults; get the first serve back and win the rally."
+fine-tuned + short prompt,Pedro Martinez | Hard,True,False,True,1.0,1.0,1.0,0.5,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: defensive specialist
+SECONDARY ARCHETYPE: counterpuncher
+PROFILE SUMMARY: Relies on retrieving and long exchanges: 13% of points reach 10+ shots with only 15.1 winners per 100 points. On serve the player goes to the T on 43% of deuce-court serves and wide on 40% of ad-court serves.
+STRENGTHS:
+- Serves safely: double faults on only 4.5% of serve points (top fifth on this surface).
+- Rarely gives points away: only 15.7 unforced errors per 100 points (top fifth on this surface).
+- Reliable second serve: wins 50.8% of second-serve points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 15.1 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 2.5% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 62.2% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a defensive specialist, be patient in constructing points and finish with controlled aggression.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Do not count on double faults; get the first serve back and win the rally."
+fine-tuned + short prompt,Peter Gojowczyk | Hard,True,False,False,1.0,0.8333333333333334,1.0,0.0,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 34.6% of return points while keeping unforced errors to 26.2 per 100 points. On serve the player goes to the T on 35% of deuce-court serves and wide on 41% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 34.6% of return points (top fifth on this surface).
+- Wins long exchanges: takes 42.2% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 26.2 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 8.2% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 14.8 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 46.1% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Rafael Jodar | Clay,True,False,False,1.0,0.8333333333333334,1.0,0.2,0.0,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 41.0% of return points while keeping unforced errors to 19.9 per 100 points. On serve the player goes to the T on 40% of deuce-court serves and wide on 49% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 41.0% of return points (top fifth on this surface).
+- Wins long exchanges: takes 51.9% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 19.9 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 4.5% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 20.7 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 51.3% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Roberto Carballes Baena | Clay,True,False,True,1.0,1.0,1.0,0.6666666666666666,0.6666666666666666,1.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 36.7% of return points while keeping unforced errors to 13.7 per 100 points. On serve the player goes to the T on 40% of deuce-court serves and wide on 67% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 36.7% of return points (top fifth on this surface).
+- Wins long exchanges: takes 51.2% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 13.7 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 12.0 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 2.6% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 64.3% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Roberto Carballes Baena | Hard,True,False,True,1.0,1.0,1.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: defensive specialist
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 33.2% of return points while keeping unforced errors to 14.2 per 100 points. On serve the player goes to the T on 25% of deuce-court serves and wide on 46% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 33.2% of return points (top fifth on this surface).
+- Wins long exchanges: takes 44.7% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 14.2 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few point-ending shots: only 12.0 winners per 100 points (bottom fifth on this surface).
+- Few free points on serve: aces on only 3.5% of serve points (bottom fifth on this surface).
+- Vulnerable first serve: wins only 64.2% of first-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Extend the rallies and force the player to create offense instead of finishing points.
+- Prioritize first-serve percentage and placement so the return cannot set the tone of the point."
+fine-tuned + short prompt,Robin Haase | Clay,True,True,True,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (10.7 net points per 100 points) and wins 71.9% of them. On serve the player goes to the T on 46% of deuce-court serves and wide on 56% of ad-court serves.
+STRENGTHS:
+- Free points on serve: aces on 5.9% of serve points (top fifth on this surface).
+- Dominant first serve: wins 70.4% of first-serve points (top fifth on this surface).
+- Efficient offense: winner-to-error ratio of 0.90 (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 36.7% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 46.4% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 5.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Robin Haase | Hard,True,True,True,1.0,1.0,1.0,0.0,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (12.6 net points per 100 points) and wins 69.6% of them. On serve the player goes to the T on 40% of deuce-court serves and wide on 49% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 69.6% of net points (top fifth on this surface).
+- Free points on serve: aces on 9.2% of serve points (top fifth on this surface).
+- Dominant first serve: wins 74.0% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 34.0% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 45.5% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 4.0% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Sebastian Ofner | Clay,True,False,False,1.0,0.8333333333333334,1.0,0.0,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 35.2% of return points while keeping unforced errors to 22.1 per 100 points. On serve the player goes to the T on 39% of deuce-court serves and wide on 60% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 35.2% of return points (top fifth on this surface).
+- Wins long exchanges: takes 50.3% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 22.1 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 4.9% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 16.5 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 47.4% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Stefanos Tsitsipas | Clay,True,True,True,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,1.0,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (12.3 net points per 100 points) and wins 72.2% of them. On serve the player goes to the T on 43% of deuce-court serves and wide on 51% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 72.2% of net points (top fifth on this surface).
+- Free points on serve: aces on 6.5% of serve points (top fifth on this surface).
+- Dominant first serve: wins 72.7% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 38.0% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 49.4% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.3% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Stefanos Tsitsipas | Grass,True,True,True,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,1.0,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (18.4 net points per 100 points) and wins 69.7% of them. On serve the player goes to the T on 46% of deuce-court serves and wide on 41% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 69.7% of net points (top fifth on this surface).
+- Free points on serve: aces on 10.9% of serve points (top fifth on this surface).
+- Dominant first serve: wins 79.4% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 29.3% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 46.8% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.4% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Stefanos Tsitsipas | Hard,True,True,True,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.6666666666666666,"PRIMARY ARCHETYPE: all-court player
+SECONDARY ARCHETYPE: serve-plus-one attacker
+PROFILE SUMMARY: Mixes baseline play with frequent net approaches (13.5 net points per 100 points) and wins 70.9% of them. On serve the player goes to the T on 38% of deuce-court serves and wide on 40% of ad-court serves.
+STRENGTHS:
+- Effective at the net: wins 70.9% of net points (top fifth on this surface).
+- Free points on serve: aces on 9.5% of serve points (top fifth on this surface).
+- Dominant first serve: wins 76.7% of first-serve points (top fifth on this surface).
+WEAKNESSES:
+- Limited return game: wins only 32.3% of return points (bottom fifth on this surface).
+- Loses long exchanges: takes only 48.5% of points in rallies of 7+ shots (bottom fifth on this surface).
+- Double-fault prone: double faults on 3.0% of serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against an all-court player, stay aggressive from the baseline and pass or lob well to discourage net approaches.
+- Hold serve with confidence; the player rarely breaks, so protect your own service games and play freely.
+- Stand closer on the return and block the serve deep to take away the ace threat."
+fine-tuned + short prompt,Tommy Haas | Hard,True,False,False,1.0,0.8333333333333334,1.0,0.2,0.3333333333333333,0.0,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 34.9% of return points while keeping unforced errors to 24.4 per 100 points. On serve the player goes to the T on 35% of deuce-court serves and wide on 41% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 34.9% of return points (top fifth on this surface).
+- Wins long exchanges: takes 44.1% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 24.4 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 5.8% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 13.3 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 46.2% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
+fine-tuned + short prompt,Tommy Robredo | Hard,True,False,False,1.0,0.8333333333333334,1.0,0.0,0.3333333333333333,0.3333333333333333,"PRIMARY ARCHETYPE: counterpuncher
+SECONDARY ARCHETYPE: all-court player
+PROFILE SUMMARY: Absorbs pace and redirects it: wins 34.1% of return points while keeping unforced errors to 17.5 per 100 points. On serve the player goes to the T on 32% of deuce-court serves and wide on 54% of ad-court serves.
+STRENGTHS:
+- Strong returner: wins 34.1% of return points (top fifth on this surface).
+- Wins long exchanges: takes 49.8% of points in rallies of 7+ shots (top fifth on this surface).
+- Rarely gives points away: only 17.5 unforced errors per 100 points (top fifth on this surface).
+WEAKNESSES:
+- Few free points on serve: aces on only 5.4% of serve points (bottom fifth on this surface).
+- Few point-ending shots: only 14.6 winners per 100 points (bottom fifth on this surface).
+- Few free points on second serve: wins only 39.8% of second-serve points (bottom fifth on this surface).
+GAME PLAN FOR THE OPPONENT:
+- Against a counterpuncher, take the initiative early and finish points before the long exchanges begin.
+- Return aggressively and make the player earn every service point in rallies.
+- Do not expect cheap points off the second serve; return deep and build the point patiently."
