@@ -93,6 +93,8 @@ Both models were tested on the 63 held-out profiles. The base model received a l
 
 ## 8. Run the app
 
+**Colab launcher (no local GPU needed):** [open the notebook in Google Colab](https://colab.research.google.com/drive/13YJemkO6dZHjzRhCaXRDhUDtLC2m9aWF?usp=sharing). It mounts Google Drive, starts the Streamlit app, and gives a public link. Switch the runtime to a T4 GPU first. The fine-tuned model weights are not stored in this repository; the launcher expects them in Google Drive at `MyDrive/DSC670_ft_model`, which the Milestone 3 notebook creates (`notebooks/DSC670_Milestone3_HF_Colab_v2.ipynb`). The same launcher is saved here as `launch_in_colab.ipynb`.
+
 ![Generated report](screenshots/app_report_main.png)
 
 ```
